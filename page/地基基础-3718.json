@@ -1,0 +1,3721 @@
+{
+  "code": 0,
+  "message": null,
+  "data": {
+    "exerciseId": 21,
+    "takerCode": "21",
+    "exerciseName": "地基基础练习",
+    "isLimitTime": true,
+    "limitTime": 60,
+    "isSaveAnswer": null,
+    "isShowRightAnswer": true,
+    "totalPoints": null,
+    "totalTime": null,
+    "assignmentTime": null,
+    "exerciseType": "1",
+    "examTimeStart": null,
+    "examTimeEnd": null,
+    "examResults": null,
+    "paperEntity": {
+      "paperId": "183222",
+      "paperCode": "DJ01",
+      "name": "地基基础规则",
+      "version": "1",
+      "paperAreaList": [
+        {
+          "id": 916894,
+          "paperId": 183222,
+          "paperAreaName": "通用部分-单选题（每题1分）",
+          "paperAreaSequence": 1,
+          "questionList": [
+            {
+              "id": 15502822,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "检测机构对现场工程实体检测应事前编制检测方案，经（）批准；",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022880,
+                  "questionId": 15502822,
+                  "content": "技术负责人",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022881,
+                  "questionId": 15502822,
+                  "content": "实验室负责人",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502823,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "档案室温湿度和电子档案保存温湿度要求是（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022882,
+                  "questionId": 15502823,
+                  "content": "（14—24℃±2℃、40—46%±5%）、（14—24℃±2℃、40—46%±5%）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022883,
+                  "questionId": 15502823,
+                  "content": "（14—24℃±2℃、45—35—45%±5%）、（14—24℃±2℃、45—46%±5%）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022884,
+                  "questionId": 15502823,
+                  "content": "（14—24℃±2℃、45—46%±5%）、（14—24℃±2℃、35—45%±5%）",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022885,
+                  "questionId": 15502823,
+                  "content": "（14—24℃±2℃、45—46%±5%）、（14—24℃±2℃、40—46%±5%）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502824,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 4,
+              "content": "检测人员实践操作培训不应少于(   )学时，能独立操作检测设备。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022886,
+                  "questionId": 15502824,
+                  "content": "12学时",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022887,
+                  "questionId": 15502824,
+                  "content": "24学时",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022888,
+                  "questionId": 15502824,
+                  "content": "36学时",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022889,
+                  "questionId": 15502824,
+                  "content": "42学时",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51022890,
+                  "questionId": 15502824,
+                  "content": "48学时",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15502825,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "检验检测机构应建立和保持评审（）、标书、合同的程序",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022891,
+                  "questionId": 15502825,
+                  "content": "报告时间",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022892,
+                  "questionId": 15502825,
+                  "content": "检测费用",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022893,
+                  "questionId": 15502825,
+                  "content": "检测依据",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022894,
+                  "questionId": 15502825,
+                  "content": "客户要求",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502826,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "检验检测机构资质认定证书的有效期及证书期满前延续申请的时间是（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022895,
+                  "questionId": 15502826,
+                  "content": "有效期为3年， 有效期届满前3个月",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022896,
+                  "questionId": 15502826,
+                  "content": "有效期为3年，有效期届满前6个月",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022897,
+                  "questionId": 15502826,
+                  "content": "有效期为5年，有效期届满前6个月",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022898,
+                  "questionId": 15502826,
+                  "content": "有效期为6年，有效期届满前3个月",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 916895,
+          "paperId": 183222,
+          "paperAreaName": "通用部分-多选题（每题1分）",
+          "paperAreaSequence": 2,
+          "questionList": [
+            {
+              "id": 15502827,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "检验检测机构应建立和保持人员管理程序，对人员资格确认、任用、（）和（）等进行规范管理",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022899,
+                  "questionId": 15502827,
+                  "content": "能力保持",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022900,
+                  "questionId": 15502827,
+                  "content": "培训",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022901,
+                  "questionId": 15502827,
+                  "content": "上岗",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022902,
+                  "questionId": 15502827,
+                  "content": "授权",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502828,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 4,
+              "content": "检验检测机构质量监控的方式有（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022903,
+                  "questionId": 15502828,
+                  "content": "保存样品的再次检验检测",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022904,
+                  "questionId": 15502828,
+                  "content": "参加能力验证或机构之间比对",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022905,
+                  "questionId": 15502828,
+                  "content": "对报告数据进行审核",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022906,
+                  "questionId": 15502828,
+                  "content": "分析样品不同结果的相关性",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51022907,
+                  "questionId": 15502828,
+                  "content": "使用相同或不同方法进行重复检验检测",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15502829,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "（）类、（）类检测设备在启用前应进行首次校准或检测。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022908,
+                  "questionId": 15502829,
+                  "content": "A",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022909,
+                  "questionId": 15502829,
+                  "content": "B",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022910,
+                  "questionId": 15502829,
+                  "content": "C",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022911,
+                  "questionId": 15502829,
+                  "content": "D",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502830,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "检测机构室内检测项目持有岗位证书的操作人员不得少于（）人；现场检测项目持有岗位证书的操作人员不得少于（）人。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022912,
+                  "questionId": 15502830,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022913,
+                  "questionId": 15502830,
+                  "content": "2",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022914,
+                  "questionId": 15502830,
+                  "content": "3",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022915,
+                  "questionId": 15502830,
+                  "content": "4",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502831,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "下列哪些属于不实检验检测报告",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022916,
+                  "questionId": 15502831,
+                  "content": "使用未经检定或者校准的仪器、设备、设施的",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022917,
+                  "questionId": 15502831,
+                  "content": "违反国家有关强制性规定的检验检测规程或者方法的",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022918,
+                  "questionId": 15502831,
+                  "content": "未按照标准等规定传输、保存原始数据和报告的",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022919,
+                  "questionId": 15502831,
+                  "content": "样品的采集、标识、分发、流转、制备、保存、处置不符合标准等规定，存在样品污染、混淆、损毁、性状异常改变等情形的",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 916896,
+          "paperId": 183222,
+          "paperAreaName": "地基基础-判断题（每题1分）",
+          "paperAreaSequence": 3,
+          "questionList": [
+            {
+              "id": 15502832,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "复合地基静载试验，按相对变形值确定的承载力特征值不应大于最大加载压力的一半。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022920,
+                  "questionId": 15502832,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022921,
+                  "questionId": 15502832,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502833,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "单桩竖向抗压静载试验时，承压板刚度足够大，可在承压板上设置沉降观测点。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022922,
+                  "questionId": 15502833,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022923,
+                  "questionId": 15502833,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502834,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "检测时，锤的落距増加1倍，传递给桩的能量亦增加1倍。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022924,
+                  "questionId": 15502834,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022925,
+                  "questionId": 15502834,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502835,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "对参加算术平均的试验桩检测结果，可取其算术平均值为单桩竖向抗压极限承载力",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022926,
+                  "questionId": 15502835,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022927,
+                  "questionId": 15502835,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502836,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "低应变频域信号分析的频率范围上限不应小于1500Hz。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022928,
+                  "questionId": 15502836,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022929,
+                  "questionId": 15502836,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502837,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "监测数据达到预警值时，应立即预警，通知有关各方及时分析原因并采取措施。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022930,
+                  "questionId": 15502837,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022931,
+                  "questionId": 15502837,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502838,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "截取混凝土抗压芯样试件时，当桩长小于10米时，可取2组抗压芯样试件，桩长大于10m以上均应截取3组芯样进行混凝士抗压试验。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022932,
+                  "questionId": 15502838,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022933,
+                  "questionId": 15502838,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502839,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "对于嵌岩桩，桩底时域反射信号为单一反射波且与锤击脉冲信号同向时，应采取钻芯法、静载试验或高应变法核验桩端嵌岩情况。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022934,
+                  "questionId": 15502839,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022935,
+                  "questionId": 15502839,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502840,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "桩身完整性类别为Ⅰ类，表明无需静载试验单桩承载力一定满足设计要求。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022936,
+                  "questionId": 15502840,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022937,
+                  "questionId": 15502840,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502841,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "监测点应沿基坑周边布置，周边中部、阳角处、受力变形较大处应设点",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022938,
+                  "questionId": 15502841,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022939,
+                  "questionId": 15502841,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502842,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "复合地基载荷试验承压板底面标高应与设计要求标高相一致。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022940,
+                  "questionId": 15502842,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022941,
+                  "questionId": 15502842,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502843,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "采用声波透射法检测时，受检桩混凝土强度不低于15Mpa就可以进行现场检测了。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022942,
+                  "questionId": 15502843,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022943,
+                  "questionId": 15502843,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502844,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "桩顶受锤击时，应力波沿桩身下行，遇到桩身阻抗增大，会产生上行的压缩波；遇到桩身阻抗减小，则产生上行的拉伸波。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022944,
+                  "questionId": 15502844,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022945,
+                  "questionId": 15502844,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502845,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "桩身或接头存在裂隙的预制桩可采用高应变法验证。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022946,
+                  "questionId": 15502845,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022947,
+                  "questionId": 15502845,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502846,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "复合地基载荷试验应给出每个试验点的承载力检测值和单位工程的地基承载力特征值，并应评价复合地基承载力特征值是否满足设计要求。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022948,
+                  "questionId": 15502846,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022949,
+                  "questionId": 15502846,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502847,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "反射定律不适用于超声波的传播。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022950,
+                  "questionId": 15502847,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022951,
+                  "questionId": 15502847,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502848,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "浅层平板载荷试验承压板面积不应小于0．5m2。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022952,
+                  "questionId": 15502848,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022953,
+                  "questionId": 15502848,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502849,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "基桩检测时，钻芯法检测要求受检桩桩径不宜小于800mm、长径比不宜大于20。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022954,
+                  "questionId": 15502849,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022955,
+                  "questionId": 15502849,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502850,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "复合地基竖向抗压载荷试验采用并联于千斤顶油路的压力表或压力传感器测定油压，根据千斤顶率定曲线换算荷载时，压力表精度应优于或等于0.5级",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022956,
+                  "questionId": 15502850,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022957,
+                  "questionId": 15502850,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502851,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "基坑设计安全等级为一、二级的基坑需要监测，三级的不需要监测。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022958,
+                  "questionId": 15502851,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022959,
+                  "questionId": 15502851,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502852,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "桩顶测到的扩径处二次反射通常为负向。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022960,
+                  "questionId": 15502852,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022961,
+                  "questionId": 15502852,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502853,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "静力压桩的终压力值不等于单桩的极限承载力。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022962,
+                  "questionId": 15502853,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022963,
+                  "questionId": 15502853,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502854,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "基桩检测时，混凝土芯样试件的抗压强度试验应按现行国家标准《普通混凝土力学性能试验方法标准》GB／T50081执行。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022964,
+                  "questionId": 15502854,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022965,
+                  "questionId": 15502854,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502855,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "土压力监测中使用的土压力盒有钢弦式、差动电阻式、电阻应变式等多种。目前基坑工程中常用的是电阻应变式。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022966,
+                  "questionId": 15502855,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022967,
+                  "questionId": 15502855,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502856,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "竖向位移的基准点可以设置在基坑开挖影响范围以外的路面边缘。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022968,
+                  "questionId": 15502856,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022969,
+                  "questionId": 15502856,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502857,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "锚杆极限抗拔试验结果宜按荷载与对应的锚头位移列表整理，并绘制锚杆荷载-位移（P-S）曲线、锚杆荷载-弹性位移（P-Se）曲线和锚杆荷载-塑性位移（P-Sp）曲线。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022970,
+                  "questionId": 15502857,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022971,
+                  "questionId": 15502857,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502858,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "CASE法把桩视为一维弹性杆件。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022972,
+                  "questionId": 15502858,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022973,
+                  "questionId": 15502858,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502859,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "出现超深开挖或未及时加撑时应提高观测频率",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022974,
+                  "questionId": 15502859,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022975,
+                  "questionId": 15502859,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502860,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "基桩检测可分为施工前为设计提供依据的试验桩检测和施工后为验收提供依据的工程桩检测。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022976,
+                  "questionId": 15502860,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022977,
+                  "questionId": 15502860,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15502861,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "根据住建部自平衡规范要求，当受检桩为抗压桩，预估极限端阻力大于预估极限侧摩阻力时，应将荷载箱置于桩身平衡点处。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022978,
+                  "questionId": 15502861,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022979,
+                  "questionId": 15502861,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 916897,
+          "paperId": 183222,
+          "paperAreaName": "地基基础-单选题（每题1分）",
+          "paperAreaSequence": 4,
+          "questionList": [
+            {
+              "id": 15502862,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "时域信号记录的时间段长度应在2L/c时刻后延续不少于（）ms；",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022980,
+                  "questionId": 15502862,
+                  "content": "10",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022981,
+                  "questionId": 15502862,
+                  "content": "3",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022982,
+                  "questionId": 15502862,
+                  "content": "5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022983,
+                  "questionId": 15502862,
+                  "content": "6",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502863,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "根据《国家一、二等水准测量规范》GB/T12897-2006中规定，对于二等水准测量，i角误差不得超过（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022984,
+                  "questionId": 15502863,
+                  "content": "10”",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022985,
+                  "questionId": 15502863,
+                  "content": "15”",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022986,
+                  "questionId": 15502863,
+                  "content": "20”",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022987,
+                  "questionId": 15502863,
+                  "content": "30”",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502864,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "在深层平板载荷试验中的承压板采用直径为0.8m的刚性板,紧靠承压板周围外侧的土层高度不应少于(      )m。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022988,
+                  "questionId": 15502864,
+                  "content": "0.5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022989,
+                  "questionId": 15502864,
+                  "content": "0.8",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022990,
+                  "questionId": 15502864,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022991,
+                  "questionId": 15502864,
+                  "content": "2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502865,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "应力波在杆端处于固定情况下，杆端的受力以及质点运动速度是（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022992,
+                  "questionId": 15502865,
+                  "content": "受力为零，质点运动速度为零",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022993,
+                  "questionId": 15502865,
+                  "content": "受力为零，质点运动速度增加一倍",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022994,
+                  "questionId": 15502865,
+                  "content": "受力增加一倍，质点运动速度为零",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022995,
+                  "questionId": 15502865,
+                  "content": "受力增加一倍，质点运动速度增加一倍",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502866,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "饱和粘性土中预制桩进行承载力检测前的休止时间不少于（）天。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51022996,
+                  "questionId": 15502866,
+                  "content": "10",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51022997,
+                  "questionId": 15502866,
+                  "content": "15",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51022998,
+                  "questionId": 15502866,
+                  "content": "25",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51022999,
+                  "questionId": 15502866,
+                  "content": "28",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502867,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "气泡密集的混凝土，往往会造成（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023000,
+                  "questionId": 15502867,
+                  "content": "波速不变，有时反而提高，波幅下降",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023001,
+                  "questionId": 15502867,
+                  "content": "波速没有明显降低，波幅明显下",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023002,
+                  "questionId": 15502867,
+                  "content": "波速提高，波幅提高",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023003,
+                  "questionId": 15502867,
+                  "content": "波速下降，波幅提高",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502868,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "一组5根试桩，单桩极限承载力极差超过平均值的30%，经查明低值承载力并非偶然施工质量造成，则单桩竖向抗压极限承载力统计值应取（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023004,
+                  "questionId": 15502868,
+                  "content": "将最高值去掉，后面4个取平均值",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023005,
+                  "questionId": 15502868,
+                  "content": "无法确定，应增加试桩数量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023006,
+                  "questionId": 15502868,
+                  "content": "依次去掉高值后取平均，直至满足极差不超过30%的条件",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023007,
+                  "questionId": 15502868,
+                  "content": "最高和最低值都去掉，取中间3个值的平均值",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502869,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "在高应变测试中，由于土阻力的影响，产生上行压力波，从而使（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023008,
+                  "questionId": 15502869,
+                  "content": "力值减小，速度值减小",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023009,
+                  "questionId": 15502869,
+                  "content": "力值减小，速度值增大",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023010,
+                  "questionId": 15502869,
+                  "content": "力值增大，速度值减小",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023011,
+                  "questionId": 15502869,
+                  "content": "力值增大，速度值增大",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502870,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "单桩水平试验时,对钢筋混凝士桩,当桩受长期水平荷载作用且不允许开裂时,取水平临界荷载统计值的(     )倍作为单桩水平承载力特征值。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023012,
+                  "questionId": 15502870,
+                  "content": "0.6",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023013,
+                  "questionId": 15502870,
+                  "content": "0.75",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023014,
+                  "questionId": 15502870,
+                  "content": "0.9",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023015,
+                  "questionId": 15502870,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502871,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "当采用低应变法检测时,受检桩混凝土强度不应低于设计强度的     ,且不应低于     。（    ）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023016,
+                  "questionId": 15502871,
+                  "content": "50%，10MPa",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023017,
+                  "questionId": 15502871,
+                  "content": "50%，15MPa",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023018,
+                  "questionId": 15502871,
+                  "content": "70%，10MPa",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023019,
+                  "questionId": 15502871,
+                  "content": "70%，15MPa",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502872,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "基桩声波透射法测桩，对缺陷最敏感的声学参数是（  ）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023020,
+                  "questionId": 15502872,
+                  "content": "波幅",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023021,
+                  "questionId": 15502872,
+                  "content": "波形",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023022,
+                  "questionId": 15502872,
+                  "content": "频率",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023023,
+                  "questionId": 15502872,
+                  "content": "声速",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502873,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "钻芯法检桩时,每回次进尺宜控制在（    ）米以内。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023024,
+                  "questionId": 15502873,
+                  "content": "1.5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023025,
+                  "questionId": 15502873,
+                  "content": "2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023026,
+                  "questionId": 15502873,
+                  "content": "2.5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023027,
+                  "questionId": 15502873,
+                  "content": "3",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502874,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "混凝土立方体抗压强度标准试块的尺寸为：（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023028,
+                  "questionId": 15502874,
+                  "content": "100mm×100mm×100mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023029,
+                  "questionId": 15502874,
+                  "content": "150mm×150mm×150mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023030,
+                  "questionId": 15502874,
+                  "content": "150mm×150mm×300mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023031,
+                  "questionId": 15502874,
+                  "content": "200mm×200mm×200mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502875,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "下列哪一项不属声波透射法现场检测前的准备工作",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023032,
+                  "questionId": 15502875,
+                  "content": "采用标定法确定仪器系统延迟时间",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023033,
+                  "questionId": 15502875,
+                  "content": "计算声测管及耦合水层声时修正值",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023034,
+                  "questionId": 15502875,
+                  "content": "将各声测管内注满清水，检查声测管畅通情况；换能器应能在全程范围内升降顺畅",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023035,
+                  "questionId": 15502875,
+                  "content": "清理桩头",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502876,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "软土地区某沉管灌注桩,单桩竖向抗压承载力设计值为1000kN,则静载试验时最大加载量不应低于（    ）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023036,
+                  "questionId": 15502876,
+                  "content": "1600 kN",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023037,
+                  "questionId": 15502876,
+                  "content": "1650 kN",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023038,
+                  "questionId": 15502876,
+                  "content": "1700 kN",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023039,
+                  "questionId": 15502876,
+                  "content": "2000 kN",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502877,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "强夯法处理黏性土地基后，地基土层的下列哪一性质发生了变化？",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023040,
+                  "questionId": 15502877,
+                  "content": "颗粒级配",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023041,
+                  "questionId": 15502877,
+                  "content": "孔隙比",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023042,
+                  "questionId": 15502877,
+                  "content": "矿物成分",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023043,
+                  "questionId": 15502877,
+                  "content": "相对密度",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502878,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "低应变反射波法测桩信号中，桩身变阻抗位置的二次反射波与桩顶脉冲信号（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023044,
+                  "questionId": 15502878,
+                  "content": "不确定",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023045,
+                  "questionId": 15502878,
+                  "content": "反相位",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023046,
+                  "questionId": 15502878,
+                  "content": "同相位",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15502879,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "新规范JGJ 106-2014中对声波透射法检测报告的要求中,相对于JGJ 106-2003 新增了几项内容,以下哪项是新增内容之一？（    ）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023047,
+                  "questionId": 15502879,
+                  "content": "PSD-深度曲线",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023048,
+                  "questionId": 15502879,
+                  "content": "声测管布置图",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023049,
+                  "questionId": 15502879,
+                  "content": "实测波列图",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023050,
+                  "questionId": 15502879,
+                  "content": "主频-深度曲线",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502880,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "钻芯孔数为3个，同一深度部位的芯样局部破碎，无法加工成试件，宜判定为：（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023051,
+                  "questionId": 15502880,
+                  "content": "III类",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023052,
+                  "questionId": 15502880,
+                  "content": "III类或IV类",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023053,
+                  "questionId": 15502880,
+                  "content": "II类或III类",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023054,
+                  "questionId": 15502880,
+                  "content": "IV类",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502881,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "下列设备中，不可作为高应变承载力测试锤击设备的是（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023055,
+                  "questionId": 15502881,
+                  "content": "导杆式柴油锤",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023056,
+                  "questionId": 15502881,
+                  "content": "筒式柴油锤",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023057,
+                  "questionId": 15502881,
+                  "content": "液压锤",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023058,
+                  "questionId": 15502881,
+                  "content": "自由落锤",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502882,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "低应变反射波法对桩身缺陷程度      判定。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023059,
+                  "questionId": 15502882,
+                  "content": "定量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023060,
+                  "questionId": 15502882,
+                  "content": "定性",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023061,
+                  "questionId": 15502882,
+                  "content": "定性和定量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023062,
+                  "questionId": 15502882,
+                  "content": "任意",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502883,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "有一砼桩，分别采用高应变、低应变和超声波三种方法进行检测，其中以哪种方法测出的桩身波速最小（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023063,
+                  "questionId": 15502883,
+                  "content": "超声法",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023064,
+                  "questionId": 15502883,
+                  "content": "低应变法",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023065,
+                  "questionId": 15502883,
+                  "content": "高应变法",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023066,
+                  "questionId": 15502883,
+                  "content": "无法确定",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502884,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "用测斜仪观测深层水平位移时，当测斜管埋置在土体中，测斜管长度不宜小于基坑开挖深度的（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023067,
+                  "questionId": 15502884,
+                  "content": "0.5倍",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023068,
+                  "questionId": 15502884,
+                  "content": "1.5倍",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023069,
+                  "questionId": 15502884,
+                  "content": "1倍",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023070,
+                  "questionId": 15502884,
+                  "content": "2倍",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502885,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "在某级荷载作用下,桩顶上拔量大于前一级上拔荷载作用下上拔量的（）倍时,可终止加载。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023071,
+                  "questionId": 15502885,
+                  "content": "10",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023072,
+                  "questionId": 15502885,
+                  "content": "2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023073,
+                  "questionId": 15502885,
+                  "content": "3",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023074,
+                  "questionId": 15502885,
+                  "content": "5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502886,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "钻芯法检桩时,上部芯样位置距桩顶设计标高不宜大于（    ）倍桩径或2米。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023075,
+                  "questionId": 15502886,
+                  "content": "1",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023076,
+                  "questionId": 15502886,
+                  "content": "15",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023077,
+                  "questionId": 15502886,
+                  "content": "2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023078,
+                  "questionId": 15502886,
+                  "content": "3",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502887,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "基坑监测进行巡视检查的频率为",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023079,
+                  "questionId": 15502887,
+                  "content": "2-3天1次",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023080,
+                  "questionId": 15502887,
+                  "content": "和委托方协商确定",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023081,
+                  "questionId": 15502887,
+                  "content": "每天",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023082,
+                  "questionId": 15502887,
+                  "content": "由设计确定",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502888,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "地下水位量测精度不宜低于（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023083,
+                  "questionId": 15502888,
+                  "content": "10mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023084,
+                  "questionId": 15502888,
+                  "content": "15mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023085,
+                  "questionId": 15502888,
+                  "content": "20mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023086,
+                  "questionId": 15502888,
+                  "content": "25mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502889,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "孔底岩基载荷试验采用孔壁基岩提供反力进行试验时，壁基岩提供反力应大于最大试验荷载的（）倍？",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023087,
+                  "questionId": 15502889,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023088,
+                  "questionId": 15502889,
+                  "content": "1.2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023089,
+                  "questionId": 15502889,
+                  "content": "1.5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023090,
+                  "questionId": 15502889,
+                  "content": "2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502890,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "一维杆件平均波速的计算公式是（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023091,
+                  "questionId": 15502890,
+                  "content": "平均波速=2*杆长/（杆端反射时间+杆头响应时间）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023092,
+                  "questionId": 15502890,
+                  "content": "平均波速=2*杆长/（杆端反射时间-杆头响应时间）",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023093,
+                  "questionId": 15502890,
+                  "content": "平均波速=杆长/（杆端反射时间+杆头响应时间）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023094,
+                  "questionId": 15502890,
+                  "content": "平均波速=杆长/（杆端反射时间-杆头响应时间）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502891,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "关于传感器安装,下列哪个说法是不正确的？（     ）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023095,
+                  "questionId": 15502891,
+                  "content": "传感器不得安装在截面突变附近",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023096,
+                  "questionId": 15502891,
+                  "content": "传感器距离桩顶的距离不宜小于2倍的桩径或边宽",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023097,
+                  "questionId": 15502891,
+                  "content": "加速度传感器和应变式力传感器的中轴线应相互垂直",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023098,
+                  "questionId": 15502891,
+                  "content": "至少对称安装冲击力和冲击响应测量传感器各2个",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 916898,
+          "paperId": 183222,
+          "paperAreaName": "地基基础-多选题（每题1分）",
+          "paperAreaSequence": 5,
+          "questionList": [
+            {
+              "id": 15502892,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 4,
+              "content": "高程测量按使用的仪器和方法不同分为（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023099,
+                  "questionId": 15502892,
+                  "content": "闭合路线水准测量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023100,
+                  "questionId": 15502892,
+                  "content": "附合路线水准测量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023101,
+                  "questionId": 15502892,
+                  "content": "气压高程测量",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023102,
+                  "questionId": 15502892,
+                  "content": "三角高程测量",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51023103,
+                  "questionId": 15502892,
+                  "content": "水准测量",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15502893,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "基坑监测巡视过程中发现土方开挖施工单位出现严重超挖现象时，应该",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023104,
+                  "questionId": 15502893,
+                  "content": "发出危险报警",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023105,
+                  "questionId": 15502893,
+                  "content": "及时告知相关各方",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023106,
+                  "questionId": 15502893,
+                  "content": "监测日报中指出超挖情况，并建议及时改正处理",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023107,
+                  "questionId": 15502893,
+                  "content": "增加监测频率",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502894,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "基坑监测巡视过程中发现基坑侧壁出现渗漏现象时，应该",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023108,
+                  "questionId": 15502894,
+                  "content": "发出危险报警",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023109,
+                  "questionId": 15502894,
+                  "content": "及时告知相关各方",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023110,
+                  "questionId": 15502894,
+                  "content": "监测日报中指出渗漏情况，并建议及时进行处理",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023111,
+                  "questionId": 15502894,
+                  "content": "增加该部位监测频率",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502895,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "低应变反射波法检测大直径灌注桩的桩身完整性时，需要注意的事项，下面说法正确的是（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023112,
+                  "questionId": 15502895,
+                  "content": "排除高频干扰",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023113,
+                  "questionId": 15502895,
+                  "content": "浅部变截面的问题",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023114,
+                  "questionId": 15502895,
+                  "content": "缺陷的方位性",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023115,
+                  "questionId": 15502895,
+                  "content": "桩头处理",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502896,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "监测分析人员应具有（）的综合知识和工程实践经验，具有较强的综合分析能力，能及时提供可靠的综合分析报告。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023116,
+                  "questionId": 15502896,
+                  "content": "工程测量",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023117,
+                  "questionId": 15502896,
+                  "content": "建筑施工",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023118,
+                  "questionId": 15502896,
+                  "content": "结构工程",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023119,
+                  "questionId": 15502896,
+                  "content": "岩土工程",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502897,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "低应变反射波法检测桩身完整性，下列关于激振点的说法错误的是（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023120,
+                  "questionId": 15502897,
+                  "content": "对空心桩，传感器安装点与激振点的平面夹角略大于90度时，干拢相对较小",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023121,
+                  "questionId": 15502897,
+                  "content": "对空心桩，激振点宜选择在壁厚的2/3处",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023122,
+                  "questionId": 15502897,
+                  "content": "对实心桩激振点应选择在桩中心",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023123,
+                  "questionId": 15502897,
+                  "content": "激振点与传感器的安装点远离钢筋主筋",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502898,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 4,
+              "content": "下列关于单桩竖向抗压静载试验的说法中，下列是正确的？（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023124,
+                  "questionId": 15502898,
+                  "content": "第一级加载量可取为分级荷载的2倍",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023125,
+                  "questionId": 15502898,
+                  "content": "分级荷载宜为最大加载量的1/70",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023126,
+                  "questionId": 15502898,
+                  "content": "快速维持荷载法的每级荷载维持时间至少为120min",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023127,
+                  "questionId": 15502898,
+                  "content": "快速维持荷载法的每级荷载维持时间至少为30min",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51023128,
+                  "questionId": 15502898,
+                  "content": "快速维持荷载法的每级荷载维持时间至少为60min",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15502899,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 4,
+              "content": "桩身出现水平整合型裂缝或断裂，竖向抗压承载能力可能满足设计要求，但存在哪方面的隐患？（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023129,
+                  "questionId": 15502899,
+                  "content": "A水平承载力不满足要求",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023130,
+                  "questionId": 15502899,
+                  "content": "不能支撑上部结构传递的荷载",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023131,
+                  "questionId": 15502899,
+                  "content": "混凝土强度不够",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023132,
+                  "questionId": 15502899,
+                  "content": "耐久性",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51023133,
+                  "questionId": 15502899,
+                  "content": "桩周土受压时宜破坏",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15502900,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 4,
+              "content": "GB/T50783-2012复合地基检测方案宜包括以下内容（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023134,
+                  "questionId": 15502900,
+                  "content": "抽样方案",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023135,
+                  "questionId": 15502900,
+                  "content": "工程概况",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023136,
+                  "questionId": 15502900,
+                  "content": "检测方法及其依据\n的标准",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023137,
+                  "questionId": 15502900,
+                  "content": "试验周期",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51023138,
+                  "questionId": 15502900,
+                  "content": "所需的机械或人工配合",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15502901,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 4,
+              "content": "测量工作的基本原则有（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023139,
+                  "questionId": 15502901,
+                  "content": "从整体到局部",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023140,
+                  "questionId": 15502901,
+                  "content": "先测角后量距",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023141,
+                  "questionId": 15502901,
+                  "content": "先控制后碎部",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023142,
+                  "questionId": 15502901,
+                  "content": "先外业后内业",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51023143,
+                  "questionId": 15502901,
+                  "content": "由高级到低级",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15502902,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 4,
+              "content": "砂土的密实度可分为",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023144,
+                  "questionId": 15502902,
+                  "content": "紧密",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023145,
+                  "questionId": 15502902,
+                  "content": "密实",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023146,
+                  "questionId": 15502902,
+                  "content": "稍密",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023147,
+                  "questionId": 15502902,
+                  "content": "松散",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51023148,
+                  "questionId": 15502902,
+                  "content": "中密",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15502903,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "土的显著特性有",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023149,
+                  "questionId": 15502903,
+                  "content": "低承载力",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023150,
+                  "questionId": 15502903,
+                  "content": "高承载力",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023151,
+                  "questionId": 15502903,
+                  "content": "高含水量",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023152,
+                  "questionId": 15502903,
+                  "content": "高压缩性",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502904,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "声波透射法现场检测前准备工作包括以下内容（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023153,
+                  "questionId": 15502904,
+                  "content": "采用标定法确定仪器系统延迟时间",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023154,
+                  "questionId": 15502904,
+                  "content": "计算声测管及耦合水层声时修正值",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023155,
+                  "questionId": 15502904,
+                  "content": "将各声测管内注满清水，检查声测管畅通情况",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023156,
+                  "questionId": 15502904,
+                  "content": "在桩顶测量相应声测管外壁间静距离",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502905,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "钢弦式传感器的振动频率f除与钢弦应力有关外还与（）因素有关？",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023157,
+                  "questionId": 15502905,
+                  "content": "标定系数",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023158,
+                  "questionId": 15502905,
+                  "content": "材料性质",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023159,
+                  "questionId": 15502905,
+                  "content": "传感器钢弦长度",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023160,
+                  "questionId": 15502905,
+                  "content": "电缆连接长度",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15502906,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 4,
+              "content": "对于基坑类别为一级的基坑工程仪器监测项目，以下哪些是应监测项目",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51023161,
+                  "questionId": 15502906,
+                  "content": "地下水位",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51023162,
+                  "questionId": 15502906,
+                  "content": "深层水平位移",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51023163,
+                  "questionId": 15502906,
+                  "content": "围护墙顶部水平位移",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51023164,
+                  "questionId": 15502906,
+                  "content": "围护墙内力",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51023165,
+                  "questionId": 15502906,
+                  "content": "周边建筑水平位移",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "paperEntityList": null
+  },
+  "pageNum": null,
+  "pageSize": null,
+  "total": null,
+  "success": true
+}

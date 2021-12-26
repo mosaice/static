@@ -1,49 +1,51 @@
 import "./App.css";
-import { useState, useEffect, useMemo } from "react";
-import { Button, Typography, Card, Tag } from "antd";
+import { useState, useEffect } from "react";
+import { Button, Typography, Card, Tag, Divider } from "antd";
 import axios from "axios";
 import get from "lodash.get";
 const { Title } = Typography;
 
-const request = async () => {
-  const { data } = await axios.get("data.json");
-  return Promise.all(
-    data.map((name) => axios.get(`${name}.json`).then((res) => res.data))
-  );
-};
-
 function App() {
-  const [current, setCurrent] = useState();
+  const [current, setCurrent] = useState(-1);
+  const [titles, setTitles] = useState([]);
   const [exam, setExam] = useState([]);
 
   useEffect(() => {
-    request().then((res) => {
-      setExam(res.map((r) => get(r, "data.paperEntity")));
-    });
+    axios
+      .get("data.json")
+      .then((res) => {
+        setTitles(res.data);
+        return Promise.all(
+          res.data.map((name) =>
+            axios.get(`${name}.json`).then((res) => res.data)
+          )
+        );
+      })
+      .then((res) => {
+        setExam(res.map((r) => get(r, "data.paperEntity")));
+      });
   }, [setExam]);
 
-  const paper = useMemo(
-    () => exam.find((e) => e.name === current),
-    [current, exam]
-  );
+  const paper = exam[current];
 
   return (
     <div>
       <div className="center">
-        {(exam ?? []).map((item, index) => {
+        {titles.map((t, index) => {
           return (
             <Button
-              type={current === item.name ? "primary" : undefined}
-              key={item.name}
-              onClick={() => setCurrent(item.name)}
+              type={current === index ? "primary" : undefined}
+              key={index}
+              onClick={() => setCurrent(index)}
             >
-              {item.name}
+              {t}
             </Button>
           );
         })}
       </div>
       {paper && (
         <>
+          <Divider>{titles[current]}</Divider>
           <Title level={1} className="center">
             {paper.name}
           </Title>

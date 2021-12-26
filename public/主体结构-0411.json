@@ -1,0 +1,3553 @@
+{
+  "code": 0,
+  "message": null,
+  "data": {
+    "exerciseId": 22,
+    "takerCode": "22",
+    "exerciseName": "主体结构及设备安装练习",
+    "isLimitTime": true,
+    "limitTime": 60,
+    "isSaveAnswer": null,
+    "isShowRightAnswer": true,
+    "totalPoints": null,
+    "totalTime": null,
+    "assignmentTime": null,
+    "exerciseType": "1",
+    "examTimeStart": null,
+    "examTimeEnd": null,
+    "examResults": null,
+    "paperEntity": {
+      "paperId": "183233",
+      "paperCode": "ZT01",
+      "name": "主体结构和设备安装规则",
+      "version": "1",
+      "paperAreaList": [
+        {
+          "id": 916949,
+          "paperId": 183233,
+          "paperAreaName": "通用部分-单选题（每题1分）",
+          "paperAreaSequence": 1,
+          "questionList": [
+            {
+              "id": 15503757,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "未按照标准等规定传输、保存原始数据和报告的属于（）检验检测报告：。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025952,
+                  "questionId": 15503757,
+                  "content": "不实",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025953,
+                  "questionId": 15503757,
+                  "content": "虚假",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503758,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "属于不实检验检测报告：存在样品污染、混淆、损毁、性状（）等情形的检测并出具检测报告；",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025954,
+                  "questionId": 15503758,
+                  "content": "改变其原有状态",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025955,
+                  "questionId": 15503758,
+                  "content": "异常改变",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503759,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "档案室温湿度和电子档案保存温湿度要求是（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025956,
+                  "questionId": 15503759,
+                  "content": "（14—24℃±2℃、40—46%±5%）、（14—24℃±2℃、40—46%±5%）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025957,
+                  "questionId": 15503759,
+                  "content": "（14—24℃±2℃、45—35—45%±5%）、（14—24℃±2℃、45—46%±5%）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51025958,
+                  "questionId": 15503759,
+                  "content": "（14—24℃±2℃、45—46%±5%）、（14—24℃±2℃、35—45%±5%）",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51025959,
+                  "questionId": 15503759,
+                  "content": "（14—24℃±2℃、45—46%±5%）、（14—24℃±2℃、40—46%±5%）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503760,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "减少、遗漏或者变更标准等规定的应当检验检测的项目，或者改变关键检验检测条件的属于（）检验检测报告；；",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025960,
+                  "questionId": 15503760,
+                  "content": "不实",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025961,
+                  "questionId": 15503760,
+                  "content": "虚假",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503761,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "需要分包检验检测项目的检测机构（）委托人对分包的检验检测项目以及拟承担分包项目的检验检测机构的同意。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025962,
+                  "questionId": 15503761,
+                  "content": "不用取得",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025963,
+                  "questionId": 15503761,
+                  "content": "应事先取得",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 916950,
+          "paperId": 183233,
+          "paperAreaName": "通用部分-多选题（每题1分）",
+          "paperAreaSequence": 2,
+          "questionList": [
+            {
+              "id": 15503762,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "检验检测机构及其人员从事检验检测活动应当遵守法律、行政法规、部门规章的规定，遵循（）、（）、（）原则，恪守职业道德，承担社会责任。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025964,
+                  "questionId": 15503762,
+                  "content": "诚实信用",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025965,
+                  "questionId": 15503762,
+                  "content": "公平公正",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51025966,
+                  "questionId": 15503762,
+                  "content": "客观独立",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51025967,
+                  "questionId": 15503762,
+                  "content": "数据准确",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503763,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "检验检测机构应建立和保持人员管理程序，对人员资格确认、任用、（）和（）等进行规范管理",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025968,
+                  "questionId": 15503763,
+                  "content": "能力保持",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025969,
+                  "questionId": 15503763,
+                  "content": "培训",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51025970,
+                  "questionId": 15503763,
+                  "content": "上岗",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51025971,
+                  "questionId": 15503763,
+                  "content": "授权",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503764,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "检验检测标准或者技术规范对环境条件有要求时或环境条件影响检验检测结果时，应（）（）和（）环境条件。当环境条件不利于检验检测的开展时，应停止检验检测活动。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025972,
+                  "questionId": 15503764,
+                  "content": "关注",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025973,
+                  "questionId": 15503764,
+                  "content": "记录",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51025974,
+                  "questionId": 15503764,
+                  "content": "监测",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51025975,
+                  "questionId": 15503764,
+                  "content": "控制",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503765,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "检验检测机构，是指依法成立，依据相关标准等规定利用（）、（）等技术条件和专业技能，对产品或者其他特定对象进行检验检测的专业技术组织。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025976,
+                  "questionId": 15503765,
+                  "content": "场所",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025977,
+                  "questionId": 15503765,
+                  "content": "环境设施",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51025978,
+                  "questionId": 15503765,
+                  "content": "仪器设备",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503766,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "当检测设备出现下列情况之一时，应进行校准或检测：",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025979,
+                  "questionId": 15503766,
+                  "content": "检测设备出现不正常工作情况；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025980,
+                  "questionId": 15503766,
+                  "content": "可能对检测结果有影响的改装、移动、修复和维修后；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51025981,
+                  "questionId": 15503766,
+                  "content": "使用频繁或经常携带运输到现场的，以及在恶劣环境下使用的检测设备。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51025982,
+                  "questionId": 15503766,
+                  "content": "停用超过校准或检测有效期后再次投入使用；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 916951,
+          "paperId": 183233,
+          "paperAreaName": "检测专项-判断题（每题1分）",
+          "paperAreaSequence": 3,
+          "questionList": [
+            {
+              "id": 15503767,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "采用钻芯法检测混凝土抗压强度，操作人员用钢筋探测仪在确认构件某区域无钢筋后，可以在该区域直接抽取芯样。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025983,
+                  "questionId": 15503767,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025984,
+                  "questionId": 15503767,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503768,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "某芯样中只有一根直径8mm的钢筋，则该芯样一定可以用于抗压试验。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025985,
+                  "questionId": 15503768,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025986,
+                  "questionId": 15503768,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503769,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "按GB50550-2010进行加固材粘结强度检测时，混凝土内部（本体）发生破坏时，其破坏形式为粘附破坏。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025987,
+                  "questionId": 15503769,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025988,
+                  "questionId": 15503769,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503770,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "建筑施工阶段的沉降观测次数与间隔时间应视地基与荷载增加情况确定。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025989,
+                  "questionId": 15503770,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025990,
+                  "questionId": 15503770,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503771,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "结构试验的试验标志是指试件到达确定的临界状态时观察到的试验现象或量测限值。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025991,
+                  "questionId": 15503771,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025992,
+                  "questionId": 15503771,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503772,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "回弹仪在非水平状态测试时,应进行回弹值修正,当回弹仪向上回弹时,修正角和修正值均为负数",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025993,
+                  "questionId": 15503772,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025994,
+                  "questionId": 15503772,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503773,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "某工程采用C100高强混凝土，可以依据CECS03.2007采用钻芯法检测其混凝土强度。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025995,
+                  "questionId": 15503773,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025996,
+                  "questionId": 15503773,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503774,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "芯样试件的数量应根据检测批的容量确定。直径100mm的芯样试件的最小样本量不宜小于15个,小直径芯样试件的最小样本量不宜小于20个。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025997,
+                  "questionId": 15503774,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51025998,
+                  "questionId": 15503774,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503775,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "当回弹仪率定值不在80±2范围内时,对回弹仪进行常规保养后再进行率定。若再次率定仍达不到要求,则应送检定单位检定。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51025999,
+                  "questionId": 15503775,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026000,
+                  "questionId": 15503775,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503776,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "《混凝土结构试验方法标准》GB/T50152-2012，中结构试验的承载力状态荷载设计值是指承载能力在使用状态下，根据构件设计控制截面上的内力设计值与试验加载模式经换算确定的荷载值。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026001,
+                  "questionId": 15503776,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026002,
+                  "questionId": 15503776,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503777,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "对混凝土结构进行结构性能检测时,混凝土保护层厚度、钢筋间距的结果评定应符合现行国家标准《建筑结构检测技术标准》GB/T50344或《混凝土结构现场检测技术标准》GB/T50784的规定。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026003,
+                  "questionId": 15503777,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026004,
+                  "questionId": 15503777,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503778,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "JGJ145－2013中规定的后锚固基材可以是结构装饰层。（  ）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026005,
+                  "questionId": 15503778,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026006,
+                  "questionId": 15503778,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503779,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "回弹仪弹击超过2000次需要保养。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026007,
+                  "questionId": 15503779,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026008,
+                  "questionId": 15503779,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503780,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "施工质量控制等级为A级，砌筑工人应为中级工以上，其中高级工不少于40%。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026009,
+                  "questionId": 15503780,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026010,
+                  "questionId": 15503780,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503781,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "回弹仪率定时，回弹值应取向下弹击四次的稳定回弹结果的平均值。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026011,
+                  "questionId": 15503781,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026012,
+                  "questionId": 15503781,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503782,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "贯入法检测砌筑砂浆抗压强度时，当测点处的灰缝砂浆存在空洞或测孔周围砂浆有缺损时，该测点应作废，另选测点补测。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026013,
+                  "questionId": 15503782,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026014,
+                  "questionId": 15503782,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503783,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "测量回弹值时,测点可以在测区范围内随意分布。                 （     ）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026015,
+                  "questionId": 15503783,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026016,
+                  "questionId": 15503783,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503784,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "超声测试时，应优先选用平测法。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026017,
+                  "questionId": 15503784,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026018,
+                  "questionId": 15503784,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503785,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "根据JGJ/T23-2011，某工地二层楼面混凝土强度等级设计值为C25，一半采用自拌混凝土，一半采用泵送混凝土。该工程二层楼面可以采用回弹法按批量进行检测。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026019,
+                  "questionId": 15503785,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026020,
+                  "questionId": 15503785,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503786,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "当结构构件的变形或位移不能通过现场检测确定时，应采用结构分析的方法计算结构构件的位移和变形，或采用荷载检验的方法确定构件的变形能力。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026021,
+                  "questionId": 15503786,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026022,
+                  "questionId": 15503786,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503787,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "钢管内混凝土的密实性宜采用超声法或超声综合因子法进行检测，对于检测的异常区域采用钻孔内窥的方法进行验证。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026023,
+                  "questionId": 15503787,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026024,
+                  "questionId": 15503787,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503788,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "对超声波检测仪进行检验时,更换仪器的电缆线,不重新测定声时初读数,可能影响检验结果。 (    )",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026025,
+                  "questionId": 15503788,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026026,
+                  "questionId": 15503788,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503789,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "采用回弹法检测单个构件混凝土强度时，测区数不能少于10个。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026027,
+                  "questionId": 15503789,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026028,
+                  "questionId": 15503789,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503790,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "测区混凝土抗压强度换算时,不得在建立测强曲线时的标准立方体试件强度范围之外使用。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026029,
+                  "questionId": 15503790,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026030,
+                  "questionId": 15503790,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503791,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "根据JGJ/T384-2016，钻芯确定单个构件的混凝土强度推定值时，应按照GB/T4883对异常数据进行剔除。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026031,
+                  "questionId": 15503791,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026032,
+                  "questionId": 15503791,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503792,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "对于墙、板类构件,当出现受检构件的钢筋间距偏差大于偏差允许值1.5倍时,该批应直接判为不符合设计要求。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026033,
+                  "questionId": 15503792,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026034,
+                  "questionId": 15503792,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503793,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "某工程委托检测单位对后锚固工程进行锚固承载力现场检测，荷载检验值为160kN，可选用50T锚杆拉拔仪。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026035,
+                  "questionId": 15503793,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026036,
+                  "questionId": 15503793,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503794,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "结构实体钢筋保护层厚度验收合格必须全部钢筋保护层厚度的合格点率为80%及以上。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026037,
+                  "questionId": 15503794,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026038,
+                  "questionId": 15503794,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503795,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "混凝土浇筑时，宜先浇筑竖向结构构件，后浇筑水平结构构件。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026039,
+                  "questionId": 15503795,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026040,
+                  "questionId": 15503795,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 15503796,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "混凝土结构试验试件宜采用与其实际受力状态一致的正位加载。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026041,
+                  "questionId": 15503796,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026042,
+                  "questionId": 15503796,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 916952,
+          "paperId": 183233,
+          "paperAreaName": "检测专项-单选题（每题1分）",
+          "paperAreaSequence": 4,
+          "questionList": [
+            {
+              "id": 15503797,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "当出现测区间碳化深度值极差大于（）mm情况时，可能顶示该构件混凝土强度不均匀，因此要求每一测区应分别测量碳化深度值。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026043,
+                  "questionId": 15503797,
+                  "content": "2",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026044,
+                  "questionId": 15503797,
+                  "content": "3",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026045,
+                  "questionId": 15503797,
+                  "content": "4",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026046,
+                  "questionId": 15503797,
+                  "content": "5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503798,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "同一品种、类型和规格的特种门每（）樘应划分为一个检验批",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026047,
+                  "questionId": 15503798,
+                  "content": "100",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026048,
+                  "questionId": 15503798,
+                  "content": "200",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026049,
+                  "questionId": 15503798,
+                  "content": "50",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503799,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "有排水要求的部位应做滴水线（槽）。滴水线（槽）应整齐顺直，滴水线应内高外低，滴水槽的宽度和深度应满足设计要求，且均不应小于（）mm。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026050,
+                  "questionId": 15503799,
+                  "content": "10",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026051,
+                  "questionId": 15503799,
+                  "content": "15",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026052,
+                  "questionId": 15503799,
+                  "content": "20",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503800,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "混凝土管片表面麻面、粘皮总面积不大于表面积的（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026053,
+                  "questionId": 15503800,
+                  "content": "3%",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026054,
+                  "questionId": 15503800,
+                  "content": "4%",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026055,
+                  "questionId": 15503800,
+                  "content": "5%",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503801,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "某检测单位对某工程某梁采用钻芯法进行混凝土强度推定。一共取得三个有效芯样，经检测强度值分别为24.2MPa，25.7MPa，28.1MPa，该梁的强度推定值应为（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026056,
+                  "questionId": 15503801,
+                  "content": "24.2MPa",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026057,
+                  "questionId": 15503801,
+                  "content": "25.7MPa",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026058,
+                  "questionId": 15503801,
+                  "content": "26.0MPa",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026059,
+                  "questionId": 15503801,
+                  "content": "28.1MPa",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503802,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "结构实体位置与尺寸偏差检验项目及检验方法中,板厚对于悬挑板取距离支座（）m处,沿宽度方向取包括中心位置在内的随机3点取平均值。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026060,
+                  "questionId": 15503802,
+                  "content": "0.1",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026061,
+                  "questionId": 15503802,
+                  "content": "0.2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026062,
+                  "questionId": 15503802,
+                  "content": "0.5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026063,
+                  "questionId": 15503802,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503803,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "相同材料、工艺和施工条件的室内抹灰工程每（）个自然间应划分为一个检验批",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026064,
+                  "questionId": 15503803,
+                  "content": "50",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026065,
+                  "questionId": 15503803,
+                  "content": "50",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026066,
+                  "questionId": 15503803,
+                  "content": "50",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503804,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "一般抹灰工程普通抹灰的分格条（缝）直线度允许偏差（）mm",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026067,
+                  "questionId": 15503804,
+                  "content": "3",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026068,
+                  "questionId": 15503804,
+                  "content": "4",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026069,
+                  "questionId": 15503804,
+                  "content": "5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503805,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "抗拔性能检验装置中的承压钢板开孔直径应大于吊装孔直径（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026070,
+                  "questionId": 15503805,
+                  "content": "4mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026071,
+                  "questionId": 15503805,
+                  "content": "5mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026072,
+                  "questionId": 15503805,
+                  "content": "6mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503806,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "预制混凝土构件承载能力极限状态检验，受力主筋拉断对应检验系数允许值是（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026073,
+                  "questionId": 15503806,
+                  "content": "1.20",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026074,
+                  "questionId": 15503806,
+                  "content": "1.30",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026075,
+                  "questionId": 15503806,
+                  "content": "1.50",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026076,
+                  "questionId": 15503806,
+                  "content": "1.55",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503807,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "钢管片尺寸螺栓孔位及直径允许偏差为（）mm",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026077,
+                  "questionId": 15503807,
+                  "content": "±1mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026078,
+                  "questionId": 15503807,
+                  "content": "±2mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026079,
+                  "questionId": 15503807,
+                  "content": "±3mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503808,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "装饰抹灰（水刷石）的表面平整度允许偏差（）mm",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026080,
+                  "questionId": 15503808,
+                  "content": "3",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026081,
+                  "questionId": 15503808,
+                  "content": "4",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026082,
+                  "questionId": 15503808,
+                  "content": "5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503809,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "贯入法检测砌筑砂浆抗压强度时，当墙体材料为多孔砖砌体和空斗墙砌体时，其水平灰缝深度不应小于（）㎜。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026083,
+                  "questionId": 15503809,
+                  "content": "20",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026084,
+                  "questionId": 15503809,
+                  "content": "30",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026085,
+                  "questionId": 15503809,
+                  "content": "40",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026086,
+                  "questionId": 15503809,
+                  "content": "50",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503810,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "烧结砖回弹法相邻两弹击点的间距不应小于（），每一弹击点应只能弹击一次。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026087,
+                  "questionId": 15503810,
+                  "content": "10mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026088,
+                  "questionId": 15503810,
+                  "content": "15mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026089,
+                  "questionId": 15503810,
+                  "content": "20mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026090,
+                  "questionId": 15503810,
+                  "content": "25mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503811,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "当采用钻芯法对混凝土回弹法进行修正时，芯样直径宜为（）mm，高径比应为（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026091,
+                  "questionId": 15503811,
+                  "content": "100，0.95～1.05",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026092,
+                  "questionId": 15503811,
+                  "content": "100，1",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026093,
+                  "questionId": 15503811,
+                  "content": "75，0.95～1.05",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026094,
+                  "questionId": 15503811,
+                  "content": "75，1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503812,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "梁类构件，钢筋的保护层厚度设计为20mm，不合格点的最小厚度为（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026095,
+                  "questionId": 15503812,
+                  "content": "10mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026096,
+                  "questionId": 15503812,
+                  "content": "11mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026097,
+                  "questionId": 15503812,
+                  "content": "13mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026098,
+                  "questionId": 15503812,
+                  "content": "9mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503813,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "特种门每个检验批应至少抽查（），并不得少于10樘，不足10樘时应全数检查。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026099,
+                  "questionId": 15503813,
+                  "content": "40％",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026100,
+                  "questionId": 15503813,
+                  "content": "50％",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026101,
+                  "questionId": 15503813,
+                  "content": "60％",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503814,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "钢门窗安装门窗横框的标高允许偏差为（）mm",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026102,
+                  "questionId": 15503814,
+                  "content": "3",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026103,
+                  "questionId": 15503814,
+                  "content": "4",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026104,
+                  "questionId": 15503814,
+                  "content": "5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503815,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "外观检验裂缝的最大宽度应采用读数显微镜或裂缝宽度检测仪测量，精确（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026105,
+                  "questionId": 15503815,
+                  "content": "0.01mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026106,
+                  "questionId": 15503815,
+                  "content": "0.02mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026107,
+                  "questionId": 15503815,
+                  "content": "0.03mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 15503816,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "依据GB50010-2010《混凝土结构设计规范》中梁的要求，伸入梁支座范围内的受力钢筋不应少于（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026108,
+                  "questionId": 15503816,
+                  "content": "2根",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026109,
+                  "questionId": 15503816,
+                  "content": "3根",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026110,
+                  "questionId": 15503816,
+                  "content": "4根",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026111,
+                  "questionId": 15503816,
+                  "content": "5根",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503817,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 4,
+              "content": "低压系统风管以每10m接缝，漏光点不大于2处，且100m接缝平均不大于（）处为合格。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026112,
+                  "questionId": 15503817,
+                  "content": "/",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026113,
+                  "questionId": 15503817,
+                  "content": "15",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026114,
+                  "questionId": 15503817,
+                  "content": "16",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026115,
+                  "questionId": 15503817,
+                  "content": "18",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51026116,
+                  "questionId": 15503817,
+                  "content": "20",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15503818,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "按《GB50242-2002建筑给水排水及采暖工程施工质量验收规范》规定热水供应系统钢管或复合管道系统试验压力下（）min内压力降不大于（）MPa，然后降至工作压力检查，压力应不降，且不渗不漏;",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026117,
+                  "questionId": 15503818,
+                  "content": "10、0.01",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026118,
+                  "questionId": 15503818,
+                  "content": "10、0.02",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026119,
+                  "questionId": 15503818,
+                  "content": "30、0.01",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026120,
+                  "questionId": 15503818,
+                  "content": "30、0.02",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503819,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "按材质分类，下列那种风管不属于金属风管？",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026121,
+                  "questionId": 15503819,
+                  "content": "玻璃钢风管",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026122,
+                  "questionId": 15503819,
+                  "content": "不锈钢风管",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026123,
+                  "questionId": 15503819,
+                  "content": "镀锌钢板风管",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026124,
+                  "questionId": 15503819,
+                  "content": "铝板风管",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503820,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "当采用漏光法检测系统的严密性时，低压系统风管以每10m接缝，漏光点不大于2处，且100m接缝平均不大于（）处为合格。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026125,
+                  "questionId": 15503820,
+                  "content": "15",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026126,
+                  "questionId": 15503820,
+                  "content": "16",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026127,
+                  "questionId": 15503820,
+                  "content": "18",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026128,
+                  "questionId": 15503820,
+                  "content": "20",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503821,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "敞口水箱是无压的，作满水试验检验其是否渗漏即可。而密闭水箱（罐）是与系统连在一起的，其水压试验应与系统相一致，即以其工作压力的倍作水压试验。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026129,
+                  "questionId": 15503821,
+                  "content": "0.5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026130,
+                  "questionId": 15503821,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026131,
+                  "questionId": 15503821,
+                  "content": "1.5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026132,
+                  "questionId": 15503821,
+                  "content": "2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503822,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 4,
+              "content": "施工图变更需经原设计单位认可，当施工图变更涉及通风与空调工程的使用效果和节能效果时，该项变更应经（）审查。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026133,
+                  "questionId": 15503822,
+                  "content": "/",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026134,
+                  "questionId": 15503822,
+                  "content": "监理单位",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026135,
+                  "questionId": 15503822,
+                  "content": "建设单位",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026136,
+                  "questionId": 15503822,
+                  "content": "设计单位",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51026137,
+                  "questionId": 15503822,
+                  "content": "原施工图设计文件审查机构",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15503823,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "对开关、插座的电气和机械性能现场抽样检测中，绝缘电阻值不应小于（）MΩ。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026138,
+                  "questionId": 15503823,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026139,
+                  "questionId": 15503823,
+                  "content": "10",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026140,
+                  "questionId": 15503823,
+                  "content": "2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026141,
+                  "questionId": 15503823,
+                  "content": "5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503824,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 4,
+              "content": "当水平悬吊的主、干风管长度超过（）m时，应设置防止摆动的固定点.",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026142,
+                  "questionId": 15503824,
+                  "content": "/",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026143,
+                  "questionId": 15503824,
+                  "content": "15",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026144,
+                  "questionId": 15503824,
+                  "content": "20",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026145,
+                  "questionId": 15503824,
+                  "content": "30",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51026146,
+                  "questionId": 15503824,
+                  "content": "40",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15503825,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "当设计无要求时，在屋面场所最下层支架距沟底、地面的最小净距为（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026147,
+                  "questionId": 15503825,
+                  "content": "100mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026148,
+                  "questionId": 15503825,
+                  "content": "150mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026149,
+                  "questionId": 15503825,
+                  "content": "180mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026150,
+                  "questionId": 15503825,
+                  "content": "200mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503826,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "给水管道管网必须进行水压试验，试验压力为工作压力的1.5倍，但不得小于（  ）MPa",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026151,
+                  "questionId": 15503826,
+                  "content": "0.3",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026152,
+                  "questionId": 15503826,
+                  "content": "0.5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026153,
+                  "questionId": 15503826,
+                  "content": "0.6",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026154,
+                  "questionId": 15503826,
+                  "content": "1.2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 916953,
+          "paperId": 183233,
+          "paperAreaName": "检测专项-多选题（每题2分）",
+          "paperAreaSequence": 5,
+          "questionList": [
+            {
+              "id": 15503827,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "构件的材料强度应取实测数据推定的具有95％保证率特征值，且应符合下列（）规定。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026155,
+                  "questionId": 15503827,
+                  "content": ")既有结构应考虑不可恢复性损伤对构材强度的影响",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026156,
+                  "questionId": 15503827,
+                  "content": "既有结构材料强度的系数应按国家现行有关标准的规定确定",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026157,
+                  "questionId": 15503827,
+                  "content": "结构工程检测判定材料强度的长期性能受到影响时，应分别采用检测得到的强度值和推断设计使用年限强度的衰减值",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026158,
+                  "questionId": 15503827,
+                  "content": "受到外界人为因素影响的结构材料强度未达到设计要求时，应进行专门的说明",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503828,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 4,
+              "content": "超声回弹法测砼体强度方法利用了下面哪些基本原理",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026159,
+                  "questionId": 15503828,
+                  "content": "砼的强度与波速成正比",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026160,
+                  "questionId": 15503828,
+                  "content": "砼的强度与波速成正相关",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026161,
+                  "questionId": 15503828,
+                  "content": "砼的强度与波速和回弹值的平均值呈成比",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026162,
+                  "questionId": 15503828,
+                  "content": "砼的强度与回弹值成正比",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51026163,
+                  "questionId": 15503828,
+                  "content": "砼的强度与回弹值成正相关",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15503829,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "既有结构性能的检测应将存在下列（）问题的构件确定为重要的检测批或重点检测的对象。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026164,
+                  "questionId": 15503829,
+                  "content": "存在变形、损伤、裂缝、渗漏的构件",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026165,
+                  "questionId": 15503829,
+                  "content": "容易受到磨损、冲撞损伤的构件",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026166,
+                  "questionId": 15503829,
+                  "content": "受到较大反复荷载或动力荷载作用的构件和连接",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026167,
+                  "questionId": 15503829,
+                  "content": "受到侵蚀性环境影响的构件、连接和节点等",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503830,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "贯入仪应符合下列规定:",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026168,
+                  "questionId": 15503830,
+                  "content": "工作行程应为(20±0．10)mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026169,
+                  "questionId": 15503830,
+                  "content": "工作行程应为(20±0．20)mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026170,
+                  "questionId": 15503830,
+                  "content": "贯入力应为(700±7)N；",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026171,
+                  "questionId": 15503830,
+                  "content": "贯入力应为(800±8)N；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503831,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "根据JGJ/T384-2016，某检测单位对某工程二层剪力墙混凝土进行回弹检测，并采用修正量方法对回弹法进行钻芯修正，以下说法错误的是（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026172,
+                  "questionId": 15503831,
+                  "content": "可以从未进行混凝土回弹检测但同龄期同区域的二层剪力墙上抽取芯样进行修正；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026173,
+                  "questionId": 15503831,
+                  "content": "可以从相近龄期的二层柱抽取芯样进行修正；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026174,
+                  "questionId": 15503831,
+                  "content": "只能抽取直径100mm的芯样进行修正；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026175,
+                  "questionId": 15503831,
+                  "content": "钻芯位置应与回弹检测的测区重合；",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503832,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "在进行超声回弹测试时，以下做法错误的是（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026176,
+                  "questionId": 15503832,
+                  "content": "单面平测时，可在超声波的发射和接受测点之间弹击16个点。",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026177,
+                  "questionId": 15503832,
+                  "content": "每一测点的回弹值，测读精确度至0.1。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026178,
+                  "questionId": 15503832,
+                  "content": "每一测点的回弹值，测读精确度至1。",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026179,
+                  "questionId": 15503832,
+                  "content": "应在构件测区内超声波的发射和接受面各弹击6个点。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503833,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "下列关于验证性试验每级加载的持荷时间说法正确的有（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026180,
+                  "questionId": 15503833,
+                  "content": "每级荷载加载完成后的持荷时间不应少于5min～10min，且每级加载时间宜相等",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026181,
+                  "questionId": 15503833,
+                  "content": "如荷载达到开裂荷载计算值前已经出现裂缝，则在开裂荷载计算值下的持荷时间不应少于5min～10min。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026182,
+                  "questionId": 15503833,
+                  "content": "在开裂荷载计算值作用下，持荷时间不宜少于15min",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026183,
+                  "questionId": 15503833,
+                  "content": "在使用状态试验荷载值()作用下，持荷时间不应少于5min",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503834,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "采用拔出法检测混凝土强度，在钻孔予磨槽时应注意哪些问题。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026184,
+                  "questionId": 15503834,
+                  "content": "垂直度偏差不应大于5°。",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026185,
+                  "questionId": 15503834,
+                  "content": "磨出的环形槽形状应规整。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026186,
+                  "questionId": 15503834,
+                  "content": "在混凝土孔壁磨环形槽时，磨槽机的定位圆盘应始终紧靠混凝土测试面回转。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026187,
+                  "questionId": 15503834,
+                  "content": "在钻孔过程中，钻头应始终与混凝土测试面保持垂直。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503835,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "弹簧拉压试验机的性能应符合下列规定：",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026188,
+                  "questionId": 15503835,
+                  "content": "负荷分度值应为0．1N",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026189,
+                  "questionId": 15503835,
+                  "content": "负荷误差应小于0．1％的示值误差",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026190,
+                  "questionId": 15503835,
+                  "content": "位移分度值应为0．1mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026191,
+                  "questionId": 15503835,
+                  "content": "位移误差应为±0．01mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503836,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "对于梁板类简支受弯预制构件，在结构性能检验中不用进行抗裂检验的情况有（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026192,
+                  "questionId": 15503836,
+                  "content": "钢筋混凝土预制梁",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026193,
+                  "questionId": 15503836,
+                  "content": "裂缝控制等级为三级的预应力混凝土梁",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026194,
+                  "questionId": 15503836,
+                  "content": "裂缝控制等级为一级的预应力空心板",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026195,
+                  "questionId": 15503836,
+                  "content": "无可靠应用经验的装配式建筑预制楼梯",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503837,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "采用贯入法检测的砌筑砂浆应符合下列规定：",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026196,
+                  "questionId": 15503837,
+                  "content": "风干状态",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026197,
+                  "questionId": 15503837,
+                  "content": "抗压强度为(0．4～16．0)MPa",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026198,
+                  "questionId": 15503837,
+                  "content": "龄期为28d或28d以上",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026199,
+                  "questionId": 15503837,
+                  "content": "自然养护",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503838,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "下列关于混凝土测强曲线的说法错误的有：（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026200,
+                  "questionId": 15503838,
+                  "content": "测强曲线是通过经验建立的测强曲线。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026201,
+                  "questionId": 15503838,
+                  "content": "各个地区都应制定本地区的测强曲线。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026202,
+                  "questionId": 15503838,
+                  "content": "检测单位宜按统一测强曲线、地区测强曲线、专用测强曲线的顺序选用测强曲线。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026203,
+                  "questionId": 15503838,
+                  "content": "统一测强曲线具有全国范围的代表性。",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503839,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "加固材粘结强度检测时，破坏形式有哪些类型（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026204,
+                  "questionId": 15503839,
+                  "content": "混合破坏",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026205,
+                  "questionId": 15503839,
+                  "content": "胶结面破坏",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026206,
+                  "questionId": 15503839,
+                  "content": "内聚破坏",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026207,
+                  "questionId": 15503839,
+                  "content": "粘附破坏",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 15503840,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 4,
+              "content": "柜、台、箱、盘内检测试验应符合（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026208,
+                  "questionId": 15503840,
+                  "content": "闭锁装置动作应准确、可靠",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026209,
+                  "questionId": 15503840,
+                  "content": "柜、台、箱、盘上的标识器件应标明被控设备编号及名称或操作位置，接线端子应有编号，且清晰、工整、不易褪色",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026210,
+                  "questionId": 15503840,
+                  "content": "回路中的电子元件不应参加交流工频耐压试验，50V及以下回路可不做交流工频耐压试验",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026211,
+                  "questionId": 15503840,
+                  "content": "控制开关及保护装置的规格，型号应符合设计要求",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 51026212,
+                  "questionId": 15503840,
+                  "content": "主开关的辅助开关切换动作与主开关动作一致",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 15503841,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "中等题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "下列压力管道水压试验的试验压力描述正确的有（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 51026213,
+                  "questionId": 15503841,
+                  "content": "当钢管工作压力P，\n试验压力为P+0.5且不小于0.9",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 51026214,
+                  "questionId": 15503841,
+                  "content": "当钢管工作压力P，试验压力为2P且≥0.9",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 51026215,
+                  "questionId": 15503841,
+                  "content": "当铸铁管工作压力≤0.5，试验压力为2P",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 51026216,
+                  "questionId": 15503841,
+                  "content": "当铸铁管工作压力≤0.5，试验压力为P+0.5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "paperEntityList": null
+  },
+  "pageNum": null,
+  "pageSize": null,
+  "total": null,
+  "success": true
+}
