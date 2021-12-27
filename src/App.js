@@ -22,7 +22,12 @@ function App() {
         );
       })
       .then((res) => {
-        setExam(res.map((r) => get(r, "data.paperEntity")));
+        setExam(
+          res.map(
+            (r) =>
+              get(r, "data.paperEntity") || get(r, "data.examJson.paperEntity")
+          )
+        );
       });
   }, [setExam]);
 
