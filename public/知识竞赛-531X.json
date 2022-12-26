@@ -1,0 +1,3545 @@
+{
+  "code": 0,
+  "message": null,
+  "data": {
+    "exerciseId": 39,
+    "takerCode": "39",
+    "exerciseName": "2022知识竞赛模拟练习题",
+    "isLimitTime": true,
+    "limitTime": 45,
+    "isSaveAnswer": null,
+    "isShowRightAnswer": true,
+    "totalPoints": null,
+    "totalTime": null,
+    "assignmentTime": null,
+    "exerciseType": "1",
+    "examTimeStart": null,
+    "examTimeEnd": null,
+    "examResults": null,
+    "paperEntity": {
+      "paperId": "221586",
+      "paperCode": "JSLX",
+      "name": "知识竞赛模拟练习题",
+      "version": "V1.0",
+      "paperAreaList": [
+        {
+          "id": 1108721,
+          "paperId": 221586,
+          "paperAreaName": "一、通用部分（单选题，每题1分）",
+          "paperAreaSequence": 1,
+          "questionList": [
+            {
+              "id": 18763765,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 3,
+              "content": "检测原始记录笔误需要更正时，应由（）进行杠改，并在杠改处由原记录人签名或加盖印章。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 805,
+                  "questionId": 18763765,
+                  "content": "批准人；",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 806,
+                  "questionId": 18763765,
+                  "content": "原记录人；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 807,
+                  "questionId": 18763765,
+                  "content": "校核人员；",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 808,
+                  "questionId": 18763765,
+                  "content": "实验室负责人，",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763766,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 18,
+              "content": "属于不实检验检测报告：存在样品污染、混淆、损毁、性状（）等情形的检测并出具检测报告；",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 809,
+                  "questionId": 18763766,
+                  "content": "异常改变",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 810,
+                  "questionId": 18763766,
+                  "content": "改变其原有状态",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763767,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "检验检测机构资质认定程序分为一般程序和（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 811,
+                  "questionId": 18763767,
+                  "content": "线下审批程序",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 812,
+                  "questionId": 18763767,
+                  "content": "网上审批程序",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 813,
+                  "questionId": 18763767,
+                  "content": "特殊程序",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 814,
+                  "questionId": 18763767,
+                  "content": "告知承诺程序",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763768,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 16,
+              "content": "检验检测机构应建立和保持评审（）、标书、合同的程序",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 815,
+                  "questionId": 18763768,
+                  "content": "检测依据",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 816,
+                  "questionId": 18763768,
+                  "content": "报告时间",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 817,
+                  "questionId": 18763768,
+                  "content": "检测费用",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 818,
+                  "questionId": 18763768,
+                  "content": "客户要求",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763769,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 12,
+              "content": "档案室温湿度和电子档案保存温湿度要求是（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 819,
+                  "questionId": 18763769,
+                  "content": "（14—24℃±2℃、45—35—45%±5%）、（14—24℃±2℃、45—46%±5%）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 820,
+                  "questionId": 18763769,
+                  "content": "（14—24℃±2℃、40—46%±5%）、（14—24℃±2℃、40—46%±5%）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 821,
+                  "questionId": 18763769,
+                  "content": "（14—24℃±2℃、45—46%±5%）、（14—24℃±2℃、35—45%±5%）",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 822,
+                  "questionId": 18763769,
+                  "content": "（14—24℃±2℃、45—46%±5%）、（14—24℃±2℃、40—46%±5%）",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1108722,
+          "paperId": 221586,
+          "paperAreaName": "二、通用部分（多选题，每题1分）",
+          "paperAreaSequence": 2,
+          "questionList": [
+            {
+              "id": 18763770,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 10,
+              "content": "检测收样人员应对检测委托单的（）、试件的（）以及封样、（）等情况进行检查，确认无误后，在检测委托单上签收。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 823,
+                  "questionId": 18763770,
+                  "content": "数量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 824,
+                  "questionId": 18763770,
+                  "content": "填写内容",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 825,
+                  "questionId": 18763770,
+                  "content": "标识",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 826,
+                  "questionId": 18763770,
+                  "content": "状况",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763771,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 8,
+              "content": "当检测设备出现下列情况之一时，应进行校准或检测：",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 827,
+                  "questionId": 18763771,
+                  "content": "使用频繁或经常携带运输到现场的，以及在恶劣环境下使用的检测设备。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 828,
+                  "questionId": 18763771,
+                  "content": "停用超过校准或检测有效期后再次投入使用；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 829,
+                  "questionId": 18763771,
+                  "content": "可能对检测结果有影响的改装、移动、修复和维修后；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 830,
+                  "questionId": 18763771,
+                  "content": "检测设备出现不正常工作情况；",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763772,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 17,
+              "content": "实施《湖北省建设工程质量检测行业职业道德准则》的目的是（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 831,
+                  "questionId": 18763772,
+                  "content": "维护检测市场秩序",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 832,
+                  "questionId": 18763772,
+                  "content": "规范检测机构行为",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 833,
+                  "questionId": 18763772,
+                  "content": "提高检测人员职业道德",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 834,
+                  "questionId": 18763772,
+                  "content": "推进检测行业健康有序地发展",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 835,
+                  "questionId": 18763772,
+                  "content": "加强我省建设工程质量检测行业职业道德建设",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 18763773,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 15,
+              "content": "检验检测机构应对（）、（）、（）、签发检验检测报告或证书以及提出意见和解释的人员，依据相应的教育、培训、技能和经验进行能力确认并持证上岗。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 836,
+                  "questionId": 18763773,
+                  "content": "检验检测，",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 837,
+                  "questionId": 18763773,
+                  "content": "收样，",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 838,
+                  "questionId": 18763773,
+                  "content": "抽样，",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 839,
+                  "questionId": 18763773,
+                  "content": "操作设备，",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763774,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 14,
+              "content": "检验检测机构诚信的技术要求是（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 840,
+                  "questionId": 18763774,
+                  "content": "应对检验检测的全过程进行真实记录",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 841,
+                  "questionId": 18763774,
+                  "content": "检验检测机构所有人员的档案应真实、可信",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 842,
+                  "questionId": 18763774,
+                  "content": "关键岗位人员的能力满足工作岗位要求",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 843,
+                  "questionId": 18763774,
+                  "content": "计算机和自动化设备功能应正常，并进行验证和有效维护",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1108723,
+          "paperId": 221586,
+          "paperAreaName": "三、专项检测部分（判断题，每题1分）",
+          "paperAreaSequence": 3,
+          "questionList": [
+            {
+              "id": 18763775,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 88,
+              "content": "混凝土抗折试验机上有两个支座立脚点，一个为固定绞支，一个为滚动支点。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 844,
+                  "questionId": 18763775,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 845,
+                  "questionId": 18763775,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763776,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 120,
+              "content": "混凝土凝结时间试验中,每个试样的贯入阻力测试不应少于6次,直至单位面积贯入阻力大于32MPa为止。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 846,
+                  "questionId": 18763776,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 847,
+                  "questionId": 18763776,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763777,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 153,
+              "content": "混凝土抗压强度试验时,试验机上、下承压板的平面度公差应小于0.04mm",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 848,
+                  "questionId": 18763777,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 849,
+                  "questionId": 18763777,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763778,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 129,
+              "content": "混凝土表观密度试验结果精确至5kg/m³。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 850,
+                  "questionId": 18763778,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 851,
+                  "questionId": 18763778,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763779,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 109,
+              "content": "混凝土抗折强度时,试件到达试验龄期时,从养护地点取出后,应检查其尺寸及形状,试件取出后应尽快进行试验",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 852,
+                  "questionId": 18763779,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 853,
+                  "questionId": 18763779,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763780,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 137,
+              "content": "抗冻混凝土是指抗冻等级等于或大于F50级的混凝土。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 854,
+                  "questionId": 18763780,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 855,
+                  "questionId": 18763780,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763781,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 59,
+              "content": "混凝土拌合物扩展时间测定，试验用底板应放置在坚实的水平面上，底板和坍落度筒内壁应润湿无明水，坍落度筒应放置在底板中心，并在装料时应保持在固定的位置。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 856,
+                  "questionId": 18763781,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 857,
+                  "questionId": 18763781,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763782,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 31,
+              "content": "梳齿式桥梁伸缩装置变形性能试验长度应不小于4m或一个单元。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 858,
+                  "questionId": 18763782,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 859,
+                  "questionId": 18763782,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763783,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 81,
+              "content": "混凝土抗折强度时,3个试件中当有一个折断面位于两个集中荷载之外时,该组试件试验无效",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 860,
+                  "questionId": 18763783,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 861,
+                  "questionId": 18763783,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763784,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 84,
+              "content": "试验后的混凝土立方体抗压强度试样留样时间不少于48小时。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 862,
+                  "questionId": 18763784,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 863,
+                  "questionId": 18763784,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763785,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 54,
+              "content": "混凝土拌合物表观密度试验中,人工插捣每层插捣次数应按每10000mm²截面不小于10次计算。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 864,
+                  "questionId": 18763785,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 865,
+                  "questionId": 18763785,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763786,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 24,
+              "content": "JC/T899-2016《混凝土路缘石》中每批路缘石应为同一类别、同一型号、同一规格、同一强度等级，每20000件为一批;不足20000件，亦按一批计:超过20000件，批量由供需双方商定。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 866,
+                  "questionId": 18763786,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 867,
+                  "questionId": 18763786,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763787,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 130,
+              "content": "混凝土试件相邻面间的夹角应采用游标量角器进行测量，应精确至0.5°。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 868,
+                  "questionId": 18763787,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 869,
+                  "questionId": 18763787,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763788,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 1,
+              "content": "JC/T899-2016按随机抽样法从外观质量和尺寸偏差检验合格的试样中抽取，每项物理性能与力学性能的抗压强度试样应分别从三个不同的路缘石上各切取一块符合试验要求的试样；抗折强度直接抽取三个试样。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 870,
+                  "questionId": 18763788,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 871,
+                  "questionId": 18763788,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763789,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 79,
+              "content": "试验室搅拌混凝土时，材料用量应以质量计。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 872,
+                  "questionId": 18763789,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 873,
+                  "questionId": 18763789,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763790,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 141,
+              "content": "泵送混凝土的水泥用量（含矿物掺合料）不宜小于300 kg/m3",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 874,
+                  "questionId": 18763790,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 875,
+                  "questionId": 18763790,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763791,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 125,
+              "content": "大体积混凝土配合比试配，水胶比不宜大于0.55，用水量不宜大于175kg/m3.",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 876,
+                  "questionId": 18763791,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 877,
+                  "questionId": 18763791,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763792,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 107,
+              "content": "混凝土抗压强度试验游标量角器的分度值应为0.50。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 878,
+                  "questionId": 18763792,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 879,
+                  "questionId": 18763792,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763793,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 139,
+              "content": "普通混凝土的强度与其水灰比成线性关系。（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 880,
+                  "questionId": 18763793,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 881,
+                  "questionId": 18763793,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763794,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 4,
+              "content": "JC/T899-2016《混凝土路缘石》中路缘石吸水率应不大于8.0%。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 882,
+                  "questionId": 18763794,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 883,
+                  "questionId": 18763794,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763795,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 97,
+              "content": "维勃稠度试验时,维勃稠度仪应放置在坚实水平面上,容器、坍落度筒内壁及其他用具应润湿",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 884,
+                  "questionId": 18763795,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 885,
+                  "questionId": 18763795,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763796,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 17,
+              "content": "路缘石外观可以有不明显的裂纹，分层，色差，杂色",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 886,
+                  "questionId": 18763796,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 887,
+                  "questionId": 18763796,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763797,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 14,
+              "content": "抗盐冻性试验结果以三个试样的算术平均值和单个试样最小值表示。计算结果精确至0.1kg/㎡。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 888,
+                  "questionId": 18763797,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 889,
+                  "questionId": 18763797,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763798,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2698,
+              "content": "岩石抗冻性试验中，将铁盘连同试件一起放入冰箱，并立即开始计时，冻结4h后取出试件，放入20℃±5℃的水中溶解4h，如此反复冻融至规定次数为止。",
+              "analysis": null,
+              "filePath": null,
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 890,
+                  "questionId": 18763798,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 891,
+                  "questionId": 18763798,
+                  "content": "x",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763799,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 122,
+              "content": "混凝土抗压强度试验时,塞尺最小叶片厚度应小于0.02mm,同时应配置直板尺",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 892,
+                  "questionId": 18763799,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 893,
+                  "questionId": 18763799,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763800,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 128,
+              "content": "混凝土收缩试验有非接触法和接触法。非接触法适用于测定早龄期混凝土的自由收缩变形。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 894,
+                  "questionId": 18763800,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 895,
+                  "questionId": 18763800,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763801,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 157,
+              "content": "混凝土抗折强度时,试件放置在试验装置前,应将试件表面擦拭干净,并在试件侧面画出加荷线位置",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 896,
+                  "questionId": 18763801,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 897,
+                  "questionId": 18763801,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763802,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 62,
+              "content": "混凝土凝结时间试验中，拌制好混凝土后立即将混凝土装入带盖圆筒",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 898,
+                  "questionId": 18763802,
+                  "content": "√",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 899,
+                  "questionId": 18763802,
+                  "content": "╳",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763803,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 117,
+              "content": "混凝土拌合物的压力泌水率精确至1%。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 900,
+                  "questionId": 18763803,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 901,
+                  "questionId": 18763803,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            },
+            {
+              "id": 18763804,
+              "questionType": "判断题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 126,
+              "content": "混凝土拌合物压力泌水试验，应分两层装入，每层的插捣次数应为25次；每层捣完后，应使用橡皮锤沿缸体外壁敲击6次，进行振实，直至混凝土拌合物表面插捣孔消失并不见大气泡为止。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 902,
+                  "questionId": 18763804,
+                  "content": "√",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 903,
+                  "questionId": 18763804,
+                  "content": "╳",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1108724,
+          "paperId": 221586,
+          "paperAreaName": "四、专项检测部分（单选题，每题1分）",
+          "paperAreaSequence": 4,
+          "questionList": [
+            {
+              "id": 18763805,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 11,
+              "content": "每批路缘石应以同一类别、同一型号、同一强度等级，每（）件为一批,批量由供需双方确定。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 904,
+                  "questionId": 18763805,
+                  "content": "100000",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 905,
+                  "questionId": 18763805,
+                  "content": "20000",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 906,
+                  "questionId": 18763805,
+                  "content": "50000",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 907,
+                  "questionId": 18763805,
+                  "content": "10000",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763806,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 9,
+              "content": "JC/T899-2016从路缘石截取约为（）带有可视面的立方体为试样，数量为3个",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 908,
+                  "questionId": 18763806,
+                  "content": "100mm×100mm×100mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 909,
+                  "questionId": 18763806,
+                  "content": "200mm×200mm×200mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 910,
+                  "questionId": 18763806,
+                  "content": "100mm×200mm×100mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 911,
+                  "questionId": 18763806,
+                  "content": "150mm×150mm×150mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763807,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 27,
+              "content": "桥梁伸缩装置变形性能试验标准温度为（）℃",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 912,
+                  "questionId": 18763807,
+                  "content": "23±5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 913,
+                  "questionId": 18763807,
+                  "content": "23±3",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 914,
+                  "questionId": 18763807,
+                  "content": "23±2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 915,
+                  "questionId": 18763807,
+                  "content": "20±2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763808,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 21,
+              "content": "路缘石抗压强度加荷速率为（ ）MPa/s。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 916,
+                  "questionId": 18763808,
+                  "content": "0.04-0.06",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 917,
+                  "questionId": 18763808,
+                  "content": "0.03-0.05",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 918,
+                  "questionId": 18763808,
+                  "content": "0.4-0.6",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 919,
+                  "questionId": 18763808,
+                  "content": "0.3-0.5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763809,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 41,
+              "content": "混凝土拌合物凝结时间测试时，将砂浆试样筒置于贯入阻力仪上，测针端部与砂浆表面接触，应在10S±2S内均匀地使测针贯入砂浆25mm±2mm深度，，记录最大贯入阻力值，精确至（）N，记录测试时间，精确至1min。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 920,
+                  "questionId": 18763809,
+                  "content": "5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 921,
+                  "questionId": 18763809,
+                  "content": "10",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 922,
+                  "questionId": 18763809,
+                  "content": "20",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 923,
+                  "questionId": 18763809,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763810,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 39,
+              "content": "大板法喷射混凝土试样尺寸为（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 924,
+                  "questionId": 18763810,
+                  "content": "450 mm *350 mm *110 mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 925,
+                  "questionId": 18763810,
+                  "content": "150 mm *150 mm *150 m",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 926,
+                  "questionId": 18763810,
+                  "content": "100 mm *100 mm *m100 mm",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 927,
+                  "questionId": 18763810,
+                  "content": "450 mm *350 mm *120 mm",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763811,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 8,
+              "content": "JC/T899-2016曲线形路缘石，直线形截面L状路缘石、截面⊥状路缘石及不适合作抗折强度的路缘石应做抗压强度试验，试样数量为（）个",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 928,
+                  "questionId": 18763811,
+                  "content": "3",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 929,
+                  "questionId": 18763811,
+                  "content": "10",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 930,
+                  "questionId": 18763811,
+                  "content": "7",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 931,
+                  "questionId": 18763811,
+                  "content": "5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763812,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 37,
+              "content": "进行混凝土立方体抗压强度检测的试块，其带模静置的温度（）℃湿度为（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 932,
+                  "questionId": 18763812,
+                  "content": "20±5，＞50%",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 933,
+                  "questionId": 18763812,
+                  "content": "20±5，＞90%",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 934,
+                  "questionId": 18763812,
+                  "content": "20±2，＞95%",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 935,
+                  "questionId": 18763812,
+                  "content": "20±2，＞50%",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763813,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 28,
+              "content": "公路桥梁伸缩装置材料试件应按试验要求取样。构件试件应取足尺产品。整体试件宜采用整体装配后的伸缩装置；若受试验设备限制，不能对整体试件进行试验时，以下说法正确的是（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 936,
+                  "questionId": 18763813,
+                  "content": "单缝模数式伸缩装置的试件长度不小于4m",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 937,
+                  "questionId": 18763813,
+                  "content": "多缝模数式伸缩装置的试件长度不小于4m",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 938,
+                  "questionId": 18763813,
+                  "content": "无缝式伸缩装置的试件长度不小于 3m",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 939,
+                  "questionId": 18763813,
+                  "content": "梳齿板式伸缩装置的试件长度补小于 5m 或1 个单元",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763814,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 35,
+              "content": "混凝土配合比设计，当水泥28d胶砂抗压强度无实测值时，可用水泥强度等级值的富裕系数乘以水泥强度等级值来计算；对于强度等级值为42.5MPa的水泥，其对应的富裕系数为（）.",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 940,
+                  "questionId": 18763814,
+                  "content": "1.14",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 941,
+                  "questionId": 18763814,
+                  "content": "1.18",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 942,
+                  "questionId": 18763814,
+                  "content": "1.12",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 943,
+                  "questionId": 18763814,
+                  "content": "1.16",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763815,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 33,
+              "content": "混凝土种各项原材料间的比例关系可用（）三个参数表示。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 944,
+                  "questionId": 18763815,
+                  "content": "水灰比、砂率、单位用水量",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 945,
+                  "questionId": 18763815,
+                  "content": "水灰比、砂率、水泥用量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 946,
+                  "questionId": 18763815,
+                  "content": "抗压强度、砂率、水泥用量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 947,
+                  "questionId": 18763815,
+                  "content": "水灰比、单位用水量、水泥用量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763816,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 19,
+              "content": "现有路缘石抗压强度结果：38.8MPa、42.5MPa、41.3MPa,其结果为（）MPa。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 948,
+                  "questionId": 18763816,
+                  "content": "平均值：40.9，最小值：38.8",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 949,
+                  "questionId": 18763816,
+                  "content": "平均值：41.9，最小值：38.8",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 950,
+                  "questionId": 18763816,
+                  "content": "平均值：41，最小值：39",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 951,
+                  "questionId": 18763816,
+                  "content": "平均值：42，最小值：39",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763817,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 22,
+              "content": "抗压强度对承压用水泥净浆进行抹面找平处理,找平层厚度不大于（）mm。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 952,
+                  "questionId": 18763817,
+                  "content": "6",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 953,
+                  "questionId": 18763817,
+                  "content": "4",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 954,
+                  "questionId": 18763817,
+                  "content": "5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 955,
+                  "questionId": 18763817,
+                  "content": "7",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763818,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 38,
+              "content": "混凝土试模的内部尺寸误差（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 956,
+                  "questionId": 18763818,
+                  "content": "不应大于公称尺寸的0.2%，且不大于1mm。",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 957,
+                  "questionId": 18763818,
+                  "content": "不应大于公称尺寸的0.4%，且不大于1mm。",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 958,
+                  "questionId": 18763818,
+                  "content": "不应大于公称尺寸的0.3%，且不大于1mm。",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 959,
+                  "questionId": 18763818,
+                  "content": "不应大于公称尺寸的0.5%，且不大于1mm。",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763819,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 10,
+              "content": "JC/T899-2016将烘干的试样放入水槽中，注入温度为（）的洁净水，使试块浸没水中24h±0.5h，水面应高出试块20～30mm。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 960,
+                  "questionId": 18763819,
+                  "content": "20℃±3℃",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 961,
+                  "questionId": 18763819,
+                  "content": "20℃±5℃",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 962,
+                  "questionId": 18763819,
+                  "content": "25℃±3℃",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 963,
+                  "questionId": 18763819,
+                  "content": "20℃±10℃",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763820,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 2,
+              "content": "JC/T899-2016试验机的示值相对误差应不大于（）。试件的预期破坏荷载值不小于试验机全量程的20%，也不大于全量程的80%",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 964,
+                  "questionId": 18763820,
+                  "content": "0.04",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 965,
+                  "questionId": 18763820,
+                  "content": "0.02",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 966,
+                  "questionId": 18763820,
+                  "content": "0.05",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 967,
+                  "questionId": 18763820,
+                  "content": "0.01",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763821,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 32,
+              "content": "JGJ/T372-2016《喷射混凝土应用技术规程》规定，湿拌法喷射混凝土拌合物坍落度应为（）mm。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 968,
+                  "questionId": 18763821,
+                  "content": "60~100",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 969,
+                  "questionId": 18763821,
+                  "content": "80~200",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 970,
+                  "questionId": 18763821,
+                  "content": "120~180",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 971,
+                  "questionId": 18763821,
+                  "content": "80~120",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763822,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 13,
+              "content": "抗折强度试验,试件找平处理后应该养护（）d后方可试验",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 972,
+                  "questionId": 18763822,
+                  "content": "28",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 973,
+                  "questionId": 18763822,
+                  "content": "3",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 974,
+                  "questionId": 18763822,
+                  "content": "7",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 975,
+                  "questionId": 18763822,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763823,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 45,
+              "content": "商品混凝土的抗冻性能是测定以一定试验条件下试件所能经受的（）为指标的抗冻标号",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 976,
+                  "questionId": 18763823,
+                  "content": "耐低温读数",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 977,
+                  "questionId": 18763823,
+                  "content": "冻融破坏",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 978,
+                  "questionId": 18763823,
+                  "content": "冻融循环次数",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 979,
+                  "questionId": 18763823,
+                  "content": "冷冻时间",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763824,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 23,
+              "content": "4.直线形路缘石抗折强度等级分为（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 980,
+                  "questionId": 18763824,
+                  "content": "Cf3.5、Cf4.0、Cf5.0、Cf6.0",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 981,
+                  "questionId": 18763824,
+                  "content": "Cf3.0、Cf4.0、Cf5.0、Cf6.0",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 982,
+                  "questionId": 18763824,
+                  "content": "Cf2.0、Cf3.0、Cf4.0、Cf5.0",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 983,
+                  "questionId": 18763824,
+                  "content": "Cf2.5、Cf3.0、Cf3.5、Cf4.0",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763825,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 15,
+              "content": "混凝土路缘石JC/T899-2016中,混凝土路缘石强度等级Cc30,平均值≥30MPa,单块最小值≥（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 984,
+                  "questionId": 18763825,
+                  "content": "27MPa",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 985,
+                  "questionId": 18763825,
+                  "content": "24MPa",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 986,
+                  "questionId": 18763825,
+                  "content": "25MPa",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 987,
+                  "questionId": 18763825,
+                  "content": "28MPa",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763826,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 36,
+              "content": "采用贯入阻力试验方法测定混凝土凝结时间，通过绘制贯入阻力-时间关系曲线，当贯入阻力为（   ）MPa时，对应确定混凝土的初凝时间。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 988,
+                  "questionId": 18763826,
+                  "content": "10",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 989,
+                  "questionId": 18763826,
+                  "content": "20",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 990,
+                  "questionId": 18763826,
+                  "content": "3.5",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 991,
+                  "questionId": 18763826,
+                  "content": "28",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763827,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 40,
+              "content": "普通混凝土是指干表观密度为（）kg/m³的水泥混凝土。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 992,
+                  "questionId": 18763827,
+                  "content": "2400~3200",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 993,
+                  "questionId": 18763827,
+                  "content": "2200~2800",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 994,
+                  "questionId": 18763827,
+                  "content": "2200~3200",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 995,
+                  "questionId": 18763827,
+                  "content": "2000~2800",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763828,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 7,
+              "content": "JC/T899-2016《混凝土路缘石》中路缘石抗压强度试验过程中，试验机加载速度调整在（）MPa/s。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 996,
+                  "questionId": 18763828,
+                  "content": "0.5-0.8",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 997,
+                  "questionId": 18763828,
+                  "content": "0.3-0.5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 998,
+                  "questionId": 18763828,
+                  "content": "0.4-0.6",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 999,
+                  "questionId": 18763828,
+                  "content": "0.03-0.05",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763829,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 16,
+              "content": "当不能判定有机质土时，将试样在105～110℃的烘箱中烘烤。若烘烤24h后试样的液限小于烘烤前的（），该试样为有机质土。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1000,
+                  "questionId": 18763829,
+                  "content": "0.25",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1001,
+                  "questionId": 18763829,
+                  "content": "0.333333333333333",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1002,
+                  "questionId": 18763829,
+                  "content": "0.75",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1003,
+                  "questionId": 18763829,
+                  "content": "0.5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763830,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 5,
+              "content": "路缘石抗压强度应取（）块试样。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1004,
+                  "questionId": 18763830,
+                  "content": "6",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1005,
+                  "questionId": 18763830,
+                  "content": "5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1006,
+                  "questionId": 18763830,
+                  "content": "4",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1007,
+                  "questionId": 18763830,
+                  "content": "3",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763831,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 6,
+              "content": "JC/T899-2016检查支距、加荷点无误后。启动试验机，调节加荷速度（）匀速连续地加荷，直至试件断裂，记录最大荷载",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1008,
+                  "questionId": 18763831,
+                  "content": "0.03～0.06MPa/s",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1009,
+                  "questionId": 18763831,
+                  "content": "0.02～0.06MPa/s",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1010,
+                  "questionId": 18763831,
+                  "content": "0.04～0.05MPa/s",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1011,
+                  "questionId": 18763831,
+                  "content": "0.04～0.06MPa/s",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763832,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 12,
+              "content": "JC/T899-2016每批缘石应随机抽取龄期（）或以上的试样",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1012,
+                  "questionId": 18763832,
+                  "content": "20d",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1013,
+                  "questionId": 18763832,
+                  "content": "14d",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1014,
+                  "questionId": 18763832,
+                  "content": "25d",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1015,
+                  "questionId": 18763832,
+                  "content": "28d",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763833,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 18,
+              "content": "JC/T899-2016将制备好的试样，用硬毛刷将试样表面及周边松动的渣粒清除干净，放入温度为105℃±5℃的干燥箱内烘干。试样之间，试样与干燥箱内壁之间距离不得小于20mm，每间隔4h将试样取出称量一次，直至两次称量差小于（）时，视为试块干燥质量，精确至5g。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1016,
+                  "questionId": 18763833,
+                  "content": "0.003",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1017,
+                  "questionId": 18763833,
+                  "content": "0.001",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1018,
+                  "questionId": 18763833,
+                  "content": "0.002",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1019,
+                  "questionId": 18763833,
+                  "content": "0.005",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763834,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 1,
+              "questionSequence": 25,
+              "content": "混凝土路缘石JC/T899-2016中,混凝土路缘石吸水率不大于（）%",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1020,
+                  "questionId": 18763834,
+                  "content": "2",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1021,
+                  "questionId": 18763834,
+                  "content": "6",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1022,
+                  "questionId": 18763834,
+                  "content": "1",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1023,
+                  "questionId": 18763834,
+                  "content": "5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1108725,
+          "paperId": 221586,
+          "paperAreaName": "五、专项检测部分（多选题，每题2分）",
+          "paperAreaSequence": 5,
+          "questionList": [
+            {
+              "id": 18763835,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 43,
+              "content": "施工现场属于同条件养护的砼试件有（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1024,
+                  "questionId": 18763835,
+                  "content": "合格评定试件",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1025,
+                  "questionId": 18763835,
+                  "content": "拆模试件",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1026,
+                  "questionId": 18763835,
+                  "content": "张拉试件",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1027,
+                  "questionId": 18763835,
+                  "content": "吊装试件",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763836,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 29,
+              "content": "桥梁伸缩装置按伸缩结构可分为（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1028,
+                  "questionId": 18763836,
+                  "content": "无缝式伸缩装置",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1029,
+                  "questionId": 18763836,
+                  "content": "梳齿式伸缩装置",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1030,
+                  "questionId": 18763836,
+                  "content": "模数式伸缩装置",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                }
+              ]
+            },
+            {
+              "id": 18763837,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 20,
+              "content": "强度等级为Cf35的路缘石要求抗压强度平均值和最小值依次为≥        。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1031,
+                  "questionId": 18763837,
+                  "content": "28",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1032,
+                  "questionId": 18763837,
+                  "content": "30",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1033,
+                  "questionId": 18763837,
+                  "content": "24",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1034,
+                  "questionId": 18763837,
+                  "content": "35",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763838,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 3,
+              "content": "JC/T899-2016每批缘石应为（），每20000件为一批；不足20000件，亦按一批计；超过20000件，批量由供需双方商定。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1035,
+                  "questionId": 18763838,
+                  "content": "同一厂家",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1036,
+                  "questionId": 18763838,
+                  "content": "同一规格",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1037,
+                  "questionId": 18763838,
+                  "content": "同一类别",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1038,
+                  "questionId": 18763838,
+                  "content": "同一等级",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 1039,
+                  "questionId": 18763838,
+                  "content": "同一型号",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 18763839,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 42,
+              "content": "砼动弹性模量试验常用仪器设备有（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1040,
+                  "questionId": 18763839,
+                  "content": "厚度约20mm的泡沫塑料垫",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1041,
+                  "questionId": 18763839,
+                  "content": "砼回弹仪",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1042,
+                  "questionId": 18763839,
+                  "content": "最大量程为20kg称量设备",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1043,
+                  "questionId": 18763839,
+                  "content": "共振法砼动弹性模量测定仪",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763840,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 34,
+              "content": "《普通砼长期性能和耐久性能试验方法标准》GB/T50082-2009标准中砼抗水渗透试验的试验方法有（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1044,
+                  "questionId": 18763840,
+                  "content": "电通量法",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1045,
+                  "questionId": 18763840,
+                  "content": "渗水高度法",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1046,
+                  "questionId": 18763840,
+                  "content": "逐级加压法",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1047,
+                  "questionId": 18763840,
+                  "content": "单面渗透法",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763841,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 44,
+              "content": "普通混凝土配合比设计时砂率是依据（）确定的。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1048,
+                  "questionId": 18763841,
+                  "content": "坍落度要求",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1049,
+                  "questionId": 18763841,
+                  "content": "混凝土的水灰比",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1050,
+                  "questionId": 18763841,
+                  "content": "粗骨料的最大粒径",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1051,
+                  "questionId": 18763841,
+                  "content": "粗骨料的种类",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 1052,
+                  "questionId": 18763841,
+                  "content": "混凝土的设计强度",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            },
+            {
+              "id": 18763842,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 51,
+              "content": "下列关于水泥凝结时间对混凝土工程的影响说法错误的是（）。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1053,
+                  "questionId": 18763842,
+                  "content": "工程上要求水泥应有较长的初凝时间",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1054,
+                  "questionId": 18763842,
+                  "content": "水泥的凝结时间会直接影响混凝土施工的正常进行",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1055,
+                  "questionId": 18763842,
+                  "content": "工程上要求水泥的初凝时间越短越好",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1056,
+                  "questionId": 18763842,
+                  "content": "混凝土施工对水泥凝结时间没有要求",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763843,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 30,
+              "content": "桥梁伸缩装置整体性能包括（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1057,
+                  "questionId": 18763843,
+                  "content": "承载性能",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1058,
+                  "questionId": 18763843,
+                  "content": "焊接质量",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1059,
+                  "questionId": 18763843,
+                  "content": "防水性能",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1060,
+                  "questionId": 18763843,
+                  "content": "变形性能",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763844,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "简单题",
+              "score": 2,
+              "questionSequence": 26,
+              "content": "桥梁伸缩装置使用橡胶密封带可使用（）",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1061,
+                  "questionId": 18763844,
+                  "content": "天然橡胶",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1062,
+                  "questionId": 18763844,
+                  "content": "三元乙丙橡胶",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1063,
+                  "questionId": 18763844,
+                  "content": "丁苯橡胶",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1064,
+                  "questionId": 18763844,
+                  "content": "氯丁橡胶",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1108726,
+          "paperId": 221586,
+          "paperAreaName": "六、专项检测部分（案例题，一个或者多个正确答案，每题5分）",
+          "paperAreaSequence": 6,
+          "questionList": [
+            {
+              "id": 18763845,
+              "questionType": "单选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "困难题",
+              "score": 5,
+              "questionSequence": 1863,
+              "content": "某城市次干道水泥稳定碎石（碎石最大粒径为37.5mm），采用JTGE51-2009要求的标准尺寸成型试件，按JTGE51-2009标准成型、养护、破型后得到最大压力值（kN）如下：52.6、48.1、48.0、53.3、53.5、50.8、28.0、52.7、52.2、54.6、51.1、48.2、48.4,强度值(中间计算及结果)保留小数点后2位有效数字，满足保证率下强度代表值是（）MPa.",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1065,
+                  "questionId": 18763845,
+                  "content": "2.16",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1066,
+                  "questionId": 18763845,
+                  "content": "2.72",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1067,
+                  "questionId": 18763845,
+                  "content": "2.67",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1068,
+                  "questionId": 18763845,
+                  "content": "2.30",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                }
+              ]
+            },
+            {
+              "id": 18763846,
+              "questionType": "多选题",
+              "questionContentType": "文字题",
+              "questionDifficulty": "困难题",
+              "score": 5,
+              "questionSequence": 2697,
+              "content": "某一机制砂试样，MB值=1.5，石粉含量为1%，颗粒分析结果如下：方孔筛4,75mm、2.36mm、1.18mm、0.60mm、0.30mm、0.15mm、筛底的筛余量（g）分别是19、70、68、105、108、71、59；另一平行样结果分别是21、77、72、95、106、66、63。GB/T14684-2022规定2区机制砂方孔筛4.75mm、2.36mm、1.18mm、0.60mm、0.30mm、0.15mm累计筛余百分率（%）分别为5~0、25~0、50~10、70~41、92~70、94~80.依据GB/T14684-2022计算该机制砂的细度模数是（）,颗粒级配（）Ⅰ类砂的要求。",
+              "analysis": null,
+              "filePath": "",
+              "isRight": null,
+              "answerName": null,
+              "answerId": null,
+              "questionAnswers": [
+                {
+                  "id": 1069,
+                  "questionId": 18763846,
+                  "content": "不符合",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 1
+                },
+                {
+                  "id": 1070,
+                  "questionId": 18763846,
+                  "content": "2.6",
+                  "isRight": true,
+                  "filePath": null,
+                  "sequence": 2
+                },
+                {
+                  "id": 1071,
+                  "questionId": 18763846,
+                  "content": "2.5",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 3
+                },
+                {
+                  "id": 1072,
+                  "questionId": 18763846,
+                  "content": "2.7",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 4
+                },
+                {
+                  "id": 1073,
+                  "questionId": 18763846,
+                  "content": "符合",
+                  "isRight": false,
+                  "filePath": null,
+                  "sequence": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "paperEntityList": null
+  },
+  "pageNum": null,
+  "pageSize": null,
+  "total": null,
+  "success": true
+}
