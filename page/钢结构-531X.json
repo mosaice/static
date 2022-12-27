@@ -1,0 +1,2928 @@
+{
+  "code": 0,
+  "message": null,
+  "data": {
+    "currentTime": 1672137892628,
+    "endTime": 1672313400000,
+    "examJson": {
+      "limitTime": 45,
+      "exerciseName": "钢结构工程检测知识竞赛",
+      "exerciseId": 43,
+      "exerciseType": "0",
+      "takerCode": "43",
+      "paperEntity": {
+        "paperCode": "GJJ001",
+        "name": "钢结构检测考试",
+        "paperAreaList": [
+          {
+            "paperAreaSequence": 1,
+            "id": 1126301,
+            "questionList": [
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004025,
+                    "id": 792626,
+                    "content": "不实"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004025,
+                    "id": 792627,
+                    "content": "虚假"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 158,
+                "id": 19004025,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "使用未经检定或者校准的仪器、设备、设施的出具检测报告属于（）检验检测报告；"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004026,
+                    "id": 792628,
+                    "content": "存放设施"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004026,
+                    "id": 792629,
+                    "content": "保管设施"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 90,
+                "id": 19004026,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "检测机构对接收的检测试件应有符合条件的（），确保样品的正确存放、养护。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004027,
+                    "id": 792630,
+                    "content": "授权签字人"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004027,
+                    "id": 792631,
+                    "content": "管理层"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004027,
+                    "id": 792632,
+                    "content": "质量负责人"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004027,
+                    "id": 792633,
+                    "content": "技术负责人"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 92,
+                "id": 19004027,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "检验检测机构管理评审通常由（）负责"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004028,
+                    "id": 792634,
+                    "content": "法码上"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004028,
+                    "id": 792635,
+                    "content": "包装上"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004028,
+                    "id": 792636,
+                    "content": "可以不贴"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004028,
+                    "id": 792637,
+                    "content": "电子天平上"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 115,
+                "id": 19004028,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "法码的标别标识应贴在（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004029,
+                    "id": 792638,
+                    "content": "国务院"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004029,
+                    "id": 792639,
+                    "content": "中华人民共和国科学技术部"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004029,
+                    "id": 792640,
+                    "content": "中华人民共和国住房和城乡建设部"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004029,
+                    "id": 792641,
+                    "content": "国家市场监督管理总局"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 121,
+                "id": 19004029,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "（）主管全国检验检测机构资质认定工作，并负责检验检测机构资质认定的统一管理、组织实施、综合协调工作。"
+              }
+            ],
+            "paperId": 224516,
+            "paperAreaName": "一、通用部分（单选题，每题1分）"
+          },
+          {
+            "paperAreaSequence": 2,
+            "id": 1126302,
+            "questionList": [
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004030,
+                    "id": 792642,
+                    "content": "公正，"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004030,
+                    "id": 792643,
+                    "content": "清晰，"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004030,
+                    "id": 792644,
+                    "content": "客观，"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004030,
+                    "id": 792645,
+                    "content": "明确，"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 117,
+                "id": 19004030,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "检验检测机构应准确、（）、（）、（）地出具检验检测结果，并符合检验检测方法的规定，并确保检验检测结果的有效性。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004031,
+                    "id": 792646,
+                    "content": "停止使用"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004031,
+                    "id": 792647,
+                    "content": "隔离"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004031,
+                    "id": 792648,
+                    "content": "加贴停用标签、标记"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004031,
+                    "id": 792649,
+                    "content": "维修"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 39,
+                "id": 19004031,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "设备出现故障或者异常时，检验检测机构应采取相应措施，如（）、（）或（），直至修复并通过检定、校准或核查表明能正常工作为止。应核查这些缺陷或偏离对以前检验检测结果的影响。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004032,
+                    "id": 792650,
+                    "content": "贵重"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004032,
+                    "id": 792651,
+                    "content": "大型"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004032,
+                    "id": 792652,
+                    "content": "精密"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004032,
+                    "id": 792653,
+                    "content": "复杂"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 104,
+                "id": 19004032,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "检测机构对（）的、（）的、（）的检测设备应编制使用操作规程。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004033,
+                    "id": 792654,
+                    "content": "有标识的"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004033,
+                    "id": 792655,
+                    "content": "年度"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004033,
+                    "id": 792656,
+                    "content": "盲样"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004033,
+                    "id": 792657,
+                    "content": "月度"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 114,
+                "id": 19004033,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "试件接受应按（）建立台账，试件流转单应采取（）形式。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004034,
+                    "id": 792658,
+                    "content": "适用性"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004034,
+                    "id": 792659,
+                    "content": "管理要求"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004034,
+                    "id": 792660,
+                    "content": "系统性"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004034,
+                    "id": 792661,
+                    "content": "技术要求"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 146,
+                "id": 19004034,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "检验检测机构诚信评价指标应包括（）"
+              }
+            ],
+            "paperId": 224516,
+            "paperAreaName": "二、通用部分（多选题，每题1分）"
+          },
+          {
+            "paperAreaSequence": 3,
+            "id": 1126303,
+            "questionList": [
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004035,
+                    "id": 792662,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004035,
+                    "id": 792663,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 17,
+                "id": 19004035,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "在客户要求下，钢结构用扭剪型高强度螺栓连接副可进行冲击试验。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004036,
+                    "id": 792664,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004036,
+                    "id": 792665,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 469,
+                "id": 19004036,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "焊缝表面不得有裂纹、焊瘤等缺陷。一级、二级焊缝不得有表面气孔、夹渣、弧坑裂纹、电弧擦伤等缺陷，且一级焊缝不得有咬边、未焊满、根部收缩等缺陷。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004037,
+                    "id": 792666,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004037,
+                    "id": 792667,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 73,
+                "id": 19004037,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "检验摩擦面抗滑移系数时，紧固高强度螺栓连接副应分初拧和终拧，初拧要达到螺栓预拉力标准值的30%左右，终拧应达到螺栓的预拉力范围。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004038,
+                    "id": 792668,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004038,
+                    "id": 792669,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 348,
+                "id": 19004038,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "根据GB/T3098.1-2010规定，对带短螺纹长度栓接结构螺栓的楔负载试验，允许的未旋合螺纹的长度Lth≤1d。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004039,
+                    "id": 792670,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004039,
+                    "id": 792671,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 377,
+                "id": 19004039,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "GB50661-2011中规定，所有焊缝的外观质量检测应在焊缝冷却到室温后方可进行。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004040,
+                    "id": 792672,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004040,
+                    "id": 792673,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 102,
+                "id": 19004040,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "焊接空心球几何尺寸采用游标卡尺和套模进行检测。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004041,
+                    "id": 792674,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004041,
+                    "id": 792675,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 247,
+                "id": 19004041,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "根据《钢结构工程施工质量验收规范》，焊缝感观应达到：外形均匀、成型较好，焊道与焊道、焊道与基本金属间过渡较平滑，焊渣和飞溅物无需清除干净。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004042,
+                    "id": 792676,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004042,
+                    "id": 792677,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 84,
+                "id": 19004042,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "钢结构用高强度大六角螺栓连接副的扭矩系数试验时，螺栓预拉力超过规定范围时，可重新进行试验。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004043,
+                    "id": 792678,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004043,
+                    "id": 792679,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 81,
+                "id": 19004043,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "钢结构用高强度大六角螺栓连接副的垫片硬度试验，可在垫片的表面上任取4点测量，取后3点平均值。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004044,
+                    "id": 792680,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004044,
+                    "id": 792681,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 31,
+                "id": 19004044,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "高强度螺栓芯部硬度试验，应在螺杆末端等于螺纹直径d的截面上，距离中心四分之一螺纹直径处任取4点测量，取其后3点平均值。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004045,
+                    "id": 792682,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004045,
+                    "id": 792683,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 331,
+                "id": 19004045,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "根据《钢结构工程施工质量验收规范》，规范规定要求全焊透的一级焊缝80%检验，二级焊缝的局部检验定为抽样检验"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004046,
+                    "id": 792684,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004046,
+                    "id": 792685,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 51,
+                "id": 19004046,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "钢结构用高强度大六角螺栓的硬度的仲裁试验，以洛氏硬度为准。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004047,
+                    "id": 792686,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004047,
+                    "id": 792687,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 85,
+                "id": 19004047,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "GB/T1231-2006钢结构用高强度大六角头螺栓、大六角螺母、垫圈技术条件,连接副的扭矩系数试验在轴力计上进行,每一连接副只能试验一次,不得重复使用。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004048,
+                    "id": 792688,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004048,
+                    "id": 792689,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 302,
+                "id": 19004048,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "一工件厚度为80mm对接焊缝要求进行B级超声波检测，在检测时发现一Ⅱ区缺陷指示长度为53mm，根据GB/T50621-2010规定，该焊缝评定为Ⅱ级。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004049,
+                    "id": 792690,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004049,
+                    "id": 792691,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 330,
+                "id": 19004049,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "根据GB/T11345-2013规定，只要取得资质鉴定与认证机构颁发的超声波相关门类2级资格证书就可以从事钢结构超声波检测工作。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004050,
+                    "id": 792692,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004050,
+                    "id": 792693,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 246,
+                "id": 19004050,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "GB50661-2011中规定，焊缝超声波检测的检验等级根据质量要求分为A﹑B﹑C三级。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004051,
+                    "id": 792694,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004051,
+                    "id": 792695,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 327,
+                "id": 19004051,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "根据GB50205-2020规定，防腐涂层厚度检测的数量按构件数抽查10%同类构件不应少于3件。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004052,
+                    "id": 792696,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004052,
+                    "id": 792697,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 158,
+                "id": 19004052,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "根据GB/T50621-2010规定，涂层测厚仪的最大量程不应小于1000μm，最小分辨率不应大于1μm，示值误差不应大于3%。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004053,
+                    "id": 792698,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004053,
+                    "id": 792699,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 52,
+                "id": 19004053,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "《紧固件机械性能螺栓、螺钉和螺柱》GB/T3098.1-2010标准中规定，机械加工事件冲击试验应从尺寸等检验合格的紧固件成品上制取试件。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004054,
+                    "id": 792700,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004054,
+                    "id": 792701,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 78,
+                "id": 19004054,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "螺栓头部标志中10.9S中，S表示钢结构用高强度螺栓。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004055,
+                    "id": 792702,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004055,
+                    "id": 792703,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 522,
+                "id": 19004055,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "采用GB50205-2020《钢结构工程施工质量验收标准》评定现场防腐涂层厚度时，按照构件数量抽查不少于10%，且同类构件不少于3个"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004056,
+                    "id": 792704,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004056,
+                    "id": 792705,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 117,
+                "id": 19004056,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "低合金高强度结构钢的牌号Q355NDZ25，Z25代表厚度方向性能级别。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004057,
+                    "id": 792706,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004057,
+                    "id": 792707,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 424,
+                "id": 19004057,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "根据GB/T1231-2006规定，扭矩系数保证期为自出厂之日起1年，用户如需要延长保证期，可由供需双方协议解决。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004058,
+                    "id": 792708,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004058,
+                    "id": 792709,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 326,
+                "id": 19004058,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "根据GB/T11345-2013规定，当采用多个探头对同一焊缝进行检测时，多个探头间的折射角度差应不小于12°。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004059,
+                    "id": 792710,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004059,
+                    "id": 792711,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 393,
+                "id": 19004059,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "在测量结构或构件垂直度时，仪器应架设在与倾斜方向成正交的方向线上，且宜距被测标（1～2）倍目标高度的位置。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004060,
+                    "id": 792712,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004060,
+                    "id": 792713,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 428,
+                "id": 19004060,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "根据GB/T1231-2006规定进行连接副扭矩系数试验时，应同时记录环境温度。试验所用的机具、仪表及连接副均应放置在该环境内至少24h以上。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004061,
+                    "id": 792714,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004061,
+                    "id": 792715,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 90,
+                "id": 19004061,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "变形检测包括结构的垂直度、整体平面弯曲以及构件垂直度、弯曲变形、跨中挠度等项目。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004062,
+                    "id": 792716,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004062,
+                    "id": 792717,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 153,
+                "id": 19004062,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "《无损检测渗透检测第1部分:总则》GB/T18851.1-2012中规定：通常，在干显像剂施加完成或湿显像剂干燥后，就立即进行首次观察，这有利于解释缺陷。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004063,
+                    "id": 792718,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004063,
+                    "id": 792719,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 542,
+                "id": 19004063,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "《焊缝无损检测超声检测技术、检测等级和评定》GB/T11345-2013标准规定，晶片尺寸的选择应与频率和折射角有关。（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004064,
+                    "id": 792720,
+                    "content": "√"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004064,
+                    "id": 792721,
+                    "content": "╳"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 458,
+                "id": 19004064,
+                "questionDifficulty": "简单题",
+                "questionType": "判断题",
+                "content": "按GB50205-2020要求，对于高度60m至100m的高层钢结构主体结构的整体立面偏移的允许偏差须为（H/2500+10.0）,且不应大于50.0mm."
+              }
+            ],
+            "paperId": 224516,
+            "paperAreaName": "三、检测专项部分（判断题，每题1分）"
+          },
+          {
+            "paperAreaSequence": 4,
+            "id": 1126304,
+            "questionList": [
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004065,
+                    "id": 792722,
+                    "content": "Ⅱ级"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004065,
+                    "id": 792723,
+                    "content": "Ⅳ级"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004065,
+                    "id": 792724,
+                    "content": "Ⅰ级"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004065,
+                    "id": 792725,
+                    "content": "Ⅲ级"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 372,
+                "id": 19004065,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "碳钢和低合金钢锻件检测时,发现由缺陷引起的底波降低量BG/BF为12dB,该锻件的质量应评为()。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004066,
+                    "id": 792726,
+                    "content": "以上都可能"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004066,
+                    "id": 792727,
+                    "content": "降低"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004066,
+                    "id": 792728,
+                    "content": "提高"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004066,
+                    "id": 792729,
+                    "content": "不变"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 417,
+                "id": 19004066,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "超声波频率增加时，分辨力将（）。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004067,
+                    "id": 792730,
+                    "content": "≥1%"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004067,
+                    "id": 792731,
+                    "content": "≤2%"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004067,
+                    "id": 792732,
+                    "content": "≤3%"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004067,
+                    "id": 792733,
+                    "content": "≤1%"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 252,
+                "id": 19004067,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "根据GB50205-2020规定，钢结构抗滑移系数试验所用试验机误差应（）。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004068,
+                    "id": 792734,
+                    "content": "增加"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004068,
+                    "id": 792735,
+                    "content": "不变"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004068,
+                    "id": 792736,
+                    "content": "减少"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004068,
+                    "id": 792737,
+                    "content": "与频率无关"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 389,
+                "id": 19004068,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "当波源直径一定,探头频率增加时,其近场区长度将()。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004069,
+                    "id": 792738,
+                    "content": "较粘的耦合剂"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004069,
+                    "id": 792739,
+                    "content": "软保护膜探头"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004069,
+                    "id": 792740,
+                    "content": "以上都对"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004069,
+                    "id": 792741,
+                    "content": "较低频探头"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 192,
+                "id": 19004069,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "超声检测中,当检测面比较粗糙时,宜选用()。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004070,
+                    "id": 792742,
+                    "content": "IIW2"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004070,
+                    "id": 792743,
+                    "content": "CSK-IA"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004070,
+                    "id": 792744,
+                    "content": "CSK-ⅢA"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004070,
+                    "id": 792745,
+                    "content": "CS-2"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 279,
+                "id": 19004070,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "以下几种试块中,能用于估计盲区范围的是(  )。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004071,
+                    "id": 792746,
+                    "content": "缺陷波幅和传播时间"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004071,
+                    "id": 792747,
+                    "content": "缺陷取向"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004071,
+                    "id": 792748,
+                    "content": "以上全部"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004071,
+                    "id": 792749,
+                    "content": "缺陷指示长度"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 463,
+                "id": 19004071,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "A型显示探伤仪从荧光屏上可获得的信息是()。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004072,
+                    "id": 792750,
+                    "content": "100%   20%"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004072,
+                    "id": 792751,
+                    "content": "100%   100%"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004072,
+                    "id": 792752,
+                    "content": "20%    20%"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004072,
+                    "id": 792753,
+                    "content": "20%    100%"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 179,
+                "id": 19004072,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "GB50205-2020中，焊缝内部缺陷超声波探伤一级焊缝和二级焊缝的工程制作焊缝的检测比例分别是（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004073,
+                    "id": 792754,
+                    "content": "5"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004073,
+                    "id": 792755,
+                    "content": "10"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 205,
+                "id": 19004073,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "高强度大六角头螺栓采用扭矩法施工时，终拧扭矩应按节点数抽查10%,且不应少于（）个节点。对于每个被抽查的节点应按螺栓数抽查10%,且不少于2个螺栓。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004074,
+                    "id": 792756,
+                    "content": "以上都是"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004074,
+                    "id": 792757,
+                    "content": "限于一定数目"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004074,
+                    "id": 792758,
+                    "content": "只能是一个"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004074,
+                    "id": 792759,
+                    "content": "可以是任意多个"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 370,
+                "id": 19004074,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "波阵面的数目（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004075,
+                    "id": 792760,
+                    "content": "较坏"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004075,
+                    "id": 792761,
+                    "content": "较好"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004075,
+                    "id": 792762,
+                    "content": "一样"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004075,
+                    "id": 792763,
+                    "content": "以上都不对"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 328,
+                "id": 19004075,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "频率和晶片尺寸相同时，横波与纵波相比，其指向性（）。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004076,
+                    "id": 792764,
+                    "content": "以上都对"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004076,
+                    "id": 792765,
+                    "content": "平底孔试块法或底波高度法"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004076,
+                    "id": 792766,
+                    "content": "距离——波幅曲线性"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004076,
+                    "id": 792767,
+                    "content": "6dB法"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 510,
+                "id": 19004076,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "钢板超声检测中,调节检测灵敏度的方法是()。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004077,
+                    "id": 792768,
+                    "content": "折射角"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004077,
+                    "id": 792769,
+                    "content": "入射点"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004077,
+                    "id": 792770,
+                    "content": "灵敏度余量"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004077,
+                    "id": 792771,
+                    "content": "时基线和灵敏度"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 244,
+                "id": 19004077,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "《焊缝无损检测超声检测技术、检测等级和评定》GB/T11345-2013标准规定检测过程中至少每4小时或测检结束后时，应对（）进行效验。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004078,
+                    "id": 792772,
+                    "content": "减小"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004078,
+                    "id": 792773,
+                    "content": "都有可能"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004078,
+                    "id": 792774,
+                    "content": "不变"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004078,
+                    "id": 792775,
+                    "content": "增大"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 347,
+                "id": 19004078,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "斜探头横波声场近场区分布在两种介质中,在晶片尺寸和频率相同时近场区长度随入射角的增大而()。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004079,
+                    "id": 792776,
+                    "content": "15゜"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004079,
+                    "id": 792777,
+                    "content": "45゜"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004079,
+                    "id": 792778,
+                    "content": "30゜"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004079,
+                    "id": 792779,
+                    "content": "60゜"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 177,
+                "id": 19004079,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "根据GB/T26951-2011，为确保检测出所有方位上的缺欠，焊缝应在最大偏差角为（）的两个近似互相垂直的方向上进行磁化。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004080,
+                    "id": 792780,
+                    "content": "与材料无关"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004080,
+                    "id": 792781,
+                    "content": "以上都不对"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004080,
+                    "id": 792782,
+                    "content": "相同"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004080,
+                    "id": 792783,
+                    "content": "不同"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 490,
+                "id": 19004080,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "在同一材料中，不同波型的超声波的速度（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004081,
+                    "id": 792784,
+                    "content": "以上都不对"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004081,
+                    "id": 792785,
+                    "content": "一样"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004081,
+                    "id": 792786,
+                    "content": "较好"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004081,
+                    "id": 792787,
+                    "content": "较坏"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 430,
+                "id": 19004081,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "频率和晶片尺寸相同时,横波与纵波相比,其指向性()。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004082,
+                    "id": 792788,
+                    "content": "焊缝加两边母材厚度30%"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004082,
+                    "id": 792789,
+                    "content": "焊缝加两边30mm以上区域"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004082,
+                    "id": 792790,
+                    "content": "焊缝加两边10mm以上区域"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004082,
+                    "id": 792791,
+                    "content": "焊缝加两边母材宽度30%"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 182,
+                "id": 19004082,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "GB/T11345-2013标准规定焊缝探伤应包括焊缝及两边热影响区，所谓热影响区是指（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004083,
+                    "id": 792792,
+                    "content": "36"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004083,
+                    "id": 792793,
+                    "content": "48"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004083,
+                    "id": 792794,
+                    "content": "24"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004083,
+                    "id": 792795,
+                    "content": "12"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 266,
+                "id": 19004083,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "《钢结构焊接规范》GB50661-2011中规定，钢材标称屈服强度不小于690MPa或供货状态为调制状态时，应以焊接完成（）h后无损检测结果作为验收依据。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004084,
+                    "id": 792796,
+                    "content": "65℃±5℃"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004084,
+                    "id": 792797,
+                    "content": "75℃±3℃"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004084,
+                    "id": 792798,
+                    "content": "65℃±3℃"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004084,
+                    "id": 792799,
+                    "content": "75℃±5℃"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 288,
+                "id": 19004084,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "根据SY/T0315-2013的规定，每次试验在浸泡试件之前先把新鲜水预热到（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004085,
+                    "id": 792800,
+                    "content": "施拧结束"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004085,
+                    "id": 792801,
+                    "content": "螺母退回90°再拧回至原来位置"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004085,
+                    "id": 792802,
+                    "content": "螺母退回60°再拧回至原来位置"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004085,
+                    "id": 792803,
+                    "content": "螺母退回30°再拧回至原来位置"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 83,
+                "id": 19004085,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "扭矩法高强度螺栓连接副施工扭矩检验应在（）状态下测定扭矩值。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004086,
+                    "id": 792804,
+                    "content": "折射"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004086,
+                    "id": 792805,
+                    "content": "波型转换"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004086,
+                    "id": 792806,
+                    "content": "以上都对"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004086,
+                    "id": 792807,
+                    "content": "反射"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 528,
+                "id": 19004086,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "当超声波倾斜入射到异质界面时,将产生()。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004087,
+                    "id": 792808,
+                    "content": "每个构件测5处，每处数值为3个相距50mm测点涂层厚度的平均值"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004087,
+                    "id": 792809,
+                    "content": "每个构件测5处，每处数值为5个相距50mm测点涂层厚度的平均值"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004087,
+                    "id": 792810,
+                    "content": "每个构件测3处，每处数值为5个相距50mm测点涂层厚度的平均值"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004087,
+                    "id": 792811,
+                    "content": "每个构件测4处，每处数值为5个相距50mm测点涂层厚度的平均值"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 501,
+                "id": 19004087,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "按50205-2020标准要求，对防腐涂装厚度检测时，说法正确的是（）。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004088,
+                    "id": 792812,
+                    "content": "±20°以内"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004088,
+                    "id": 792813,
+                    "content": "±10°以内"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004088,
+                    "id": 792814,
+                    "content": "±15°以内"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004088,
+                    "id": 792815,
+                    "content": "±5°以内"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 15,
+                "id": 19004088,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "转角法高强度螺栓连接副施工扭矩检验，终拧转角偏差（）的合格。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004089,
+                    "id": 792816,
+                    "content": "以上全部"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004089,
+                    "id": 792817,
+                    "content": "取向"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004089,
+                    "id": 792818,
+                    "content": "形状大小"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004089,
+                    "id": 792819,
+                    "content": "密集程度"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 453,
+                "id": 19004089,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "超声波检测时，缺陷的特征是指缺陷的（）。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004090,
+                    "id": 792820,
+                    "content": "抗滑动"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004090,
+                    "id": 792821,
+                    "content": "磨擦"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004090,
+                    "id": 792822,
+                    "content": "抗滑移"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004090,
+                    "id": 792823,
+                    "content": "移动"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 168,
+                "id": 19004090,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "钢结构制作和安装单位应按规定分别进行高强度螺栓连接磨擦面的（）系数试验和复验，现场处理的构件磨擦面应单独进行磨擦面（）系数试验，其结果应符合设计要求"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004091,
+                    "id": 792824,
+                    "content": "25±5℃"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004091,
+                    "id": 792825,
+                    "content": "20±5℃"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004091,
+                    "id": 792826,
+                    "content": "23±5℃"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004091,
+                    "id": 792827,
+                    "content": "25±10℃"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 94,
+                "id": 19004091,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "焊接接头拉伸试验除非另有规定，试验应在环境温度为（）条件下进行。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004092,
+                    "id": 792828,
+                    "content": "222HV30～304HV30"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004092,
+                    "id": 792829,
+                    "content": "312HV30～367HV30"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004092,
+                    "id": 792830,
+                    "content": "312HV30～367HV30"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004092,
+                    "id": 792831,
+                    "content": "206HV30～289HV30"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 311,
+                "id": 19004092,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "根据GB/T1231-2006规定,10.9s级M20×60mm高强度螺栓连接副条件不允许做楔负载试验时芯部硬度符合要求的是（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004093,
+                    "id": 792832,
+                    "content": "折射角大"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004093,
+                    "id": 792833,
+                    "content": "频率高"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004093,
+                    "id": 792834,
+                    "content": "以上都对"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004093,
+                    "id": 792835,
+                    "content": "晶片面积小、前沿短"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 154,
+                "id": 19004093,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "小口径薄壁管对接焊缝超声检测时,对探头的要求是()。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 1,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004094,
+                    "id": 792836,
+                    "content": "以上都可能"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004094,
+                    "id": 792837,
+                    "content": "粗糙表面回波幅度高"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004094,
+                    "id": 792838,
+                    "content": "无影响"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004094,
+                    "id": 792839,
+                    "content": "光滑表面回波幅度高"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 351,
+                "id": 19004094,
+                "questionDifficulty": "简单题",
+                "questionType": "单选题",
+                "content": "焊缝斜角检测时,焊缝中与主声束成一定倾斜角度的缺陷,其表面状态对回波高度的影响是()。"
+              }
+            ],
+            "paperId": 224516,
+            "paperAreaName": "四、检测专项部分（单选题，每题1分）"
+          },
+          {
+            "paperAreaSequence": 5,
+            "id": 1126305,
+            "questionList": [
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004095,
+                    "id": 792840,
+                    "content": "连接副紧固轴力用轴力计或测力环测定，其示值相对误差的绝对值不得大于测试轴力值的3%"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004095,
+                    "id": 792841,
+                    "content": "进行连接副紧固轴力试验时，应同时记录环境温度"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004095,
+                    "id": 792842,
+                    "content": "组装连接副时，要将垫圈有倒角的一侧朝向螺母支承面"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004095,
+                    "id": 792843,
+                    "content": "紧固轴力试验在轴力计或测力环上进行每一连接副只能试验一次不得重复使用"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 227,
+                "id": 19004095,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "根据GB/T3632-2008规定，以下关于紧固轴力叙述正确的是（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004096,
+                    "id": 792844,
+                    "content": "喷砂(丸)"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004096,
+                    "id": 792845,
+                    "content": "钢丝刷清除浮锈"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004096,
+                    "id": 792846,
+                    "content": "未经处理的干净轧制表面"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004096,
+                    "id": 792847,
+                    "content": "热喷铝"
+                  },
+                  {
+                    "sequence": 5,
+                    "isRight": true,
+                    "questionId": 19004096,
+                    "id": 792848,
+                    "content": "喷砂(丸)后生赤锈"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 37,
+                "id": 19004096,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "在钢结构高强度螺栓连接中，钢材接触面（摩擦面）的处理方法包括（）、（）以及（）、（）等。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004097,
+                    "id": 792849,
+                    "content": "为达到推荐的磁场强度进行近似电流值的计算；"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004097,
+                    "id": 792850,
+                    "content": "使用霍尔效应探头尽可能接近表面来测量切向磁场强度。部件形状突变处或磁通离开表面的部位所对应的切向磁场强度的测量会变得困难；"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004097,
+                    "id": 792851,
+                    "content": "在最不利的部位带有细微的自然或人工缺欠的工件；"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004097,
+                    "id": 792852,
+                    "content": "基于已知原理的其他方法。"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 494,
+                "id": 19004097,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "《焊缝无损检测磁粉检测》GB/T26951-2011标准中应采用下列方法之一来验证磁场强度？（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004098,
+                    "id": 792853,
+                    "content": "经验"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004098,
+                    "id": 792854,
+                    "content": "项目技术负责人"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004098,
+                    "id": 792855,
+                    "content": "资质"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004098,
+                    "id": 792856,
+                    "content": "监理员"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 236,
+                "id": 19004098,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "根据《钢结构工程施工质量验收规范》，钢结构工程施工单位应具备相应的钢结构工程施工（），施工现场质量管理应有相应的施工技术标准、质量管理体系、质量控制及检验制度、施工现场应有经（）审批的施工组织设计、施工方案等技术文件。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004099,
+                    "id": 792857,
+                    "content": "平均值≤270kN"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004099,
+                    "id": 792858,
+                    "content": "平均值≤225kN"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004099,
+                    "id": 792859,
+                    "content": "平均值≥270kN"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004099,
+                    "id": 792860,
+                    "content": "标准差≤22.5kN"
+                  },
+                  {
+                    "sequence": 5,
+                    "isRight": true,
+                    "questionId": 19004099,
+                    "id": 792861,
+                    "content": "平均值≥225kN"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 76,
+                "id": 19004099,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "M24扭剪型高强度螺紧固轴力复验时，其检验结果应满足（）、（）、（）以及（）等要求。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004100,
+                    "id": 792862,
+                    "content": "钢材生产单位"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004100,
+                    "id": 792863,
+                    "content": "高强度螺栓生产单位"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004100,
+                    "id": 792864,
+                    "content": "钢结构安装单位"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004100,
+                    "id": 792865,
+                    "content": "钢结构制作单位"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 45,
+                "id": 19004100,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "（）应按规定进行高强度螺栓连接摩擦面的抗滑移系数复验。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004101,
+                    "id": 792866,
+                    "content": "开始使用"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004101,
+                    "id": 792867,
+                    "content": "探伤仪修理后"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004101,
+                    "id": 792868,
+                    "content": "每隔3个月"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004101,
+                    "id": 792869,
+                    "content": "探头修补后"
+                  },
+                  {
+                    "sequence": 5,
+                    "isRight": false,
+                    "questionId": 19004101,
+                    "id": 792870,
+                    "content": "每隔1个月"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 408,
+                "id": 19004101,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "据根JG/T203-2007，下列对探伤仪和探头工作性能的水平线性进行周期检查的时间，正确的是（）。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004102,
+                    "id": 792871,
+                    "content": "一级焊缝按不少于被检测焊缝处数的20%"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004102,
+                    "id": 792872,
+                    "content": "由施工单位委托具有相应资质的检测机构进行检测"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004102,
+                    "id": 792873,
+                    "content": "二级焊缝按不少于被检测焊缝处数的5%抽检"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004102,
+                    "id": 792874,
+                    "content": "由业主或其代表委托具有相应资质的独立第三方检测机构进行检测并出具报告"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 446,
+                "id": 19004102,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "根据GB50205-2020规定，关于焊缝无损检测第三方监测的叙述正确的是（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004103,
+                    "id": 792875,
+                    "content": "初拧"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004103,
+                    "id": 792876,
+                    "content": "复拧"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004103,
+                    "id": 792877,
+                    "content": "终拧"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004103,
+                    "id": 792878,
+                    "content": "三拧"
+                  },
+                  {
+                    "sequence": 5,
+                    "isRight": false,
+                    "questionId": 19004103,
+                    "id": 792879,
+                    "content": "二拧"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 27,
+                "id": 19004103,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "高强度螺栓连接副施工扭矩检验应包含（）、（）、（）和（）等的扭矩现场无损检验。"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 2,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": false,
+                    "questionId": 19004104,
+                    "id": 792880,
+                    "content": "2000~3000套"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004104,
+                    "id": 792881,
+                    "content": "不足5万个用量时"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": true,
+                    "questionId": 19004104,
+                    "id": 792882,
+                    "content": "有两种以上表面处理工艺时，每种工艺均需检验"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004104,
+                    "id": 792883,
+                    "content": "每5万个用量"
+                  },
+                  {
+                    "sequence": 5,
+                    "isRight": false,
+                    "questionId": 19004104,
+                    "id": 792884,
+                    "content": "用钢量≤2000t"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 24,
+                "id": 19004104,
+                "questionDifficulty": "简单题",
+                "questionType": "多选题",
+                "content": "钢结构抗滑移系数试验应以制造批为单位，每批（）。"
+              }
+            ],
+            "paperId": 224516,
+            "paperAreaName": "五、检测专项部分（多选题，每题2分）"
+          },
+          {
+            "paperAreaSequence": 6,
+            "id": 1126306,
+            "questionList": [
+              {
+                "questionContentType": "文字题",
+                "score": 5,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004105,
+                    "id": 792885,
+                    "content": "主体钢结构的主控项目为整体立面偏移和整体平面弯曲的允许偏差。"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": false,
+                    "questionId": 19004105,
+                    "id": 792886,
+                    "content": "测得该钢结构工程主体立面偏移为102mm，满足标准要求。"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004105,
+                    "id": 792887,
+                    "content": "主体钢结构的主控项目为整体立面偏移和总高度的允许偏差。"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": true,
+                    "questionId": 19004105,
+                    "id": 792888,
+                    "content": "测得该钢结构工程主体立面偏移为67mm，满足标准要求。"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 547,
+                "id": 19004105,
+                "questionDifficulty": "困难题",
+                "questionType": "多选题",
+                "content": "某商业大厦地上58层，地下4层，建筑高度263.60米，结构等级二级、使用年限50年、抗震等级6级、耐火等级一级，本工程钢结构主要分布在塔楼，塔楼采用“矩形钢管混凝土外框柱+型钢梁+钢筋桁架楼承板+钢筋混凝土核心筒”的钢管混凝土框架-钢筋混凝土核心筒混合结构体系。钢结构主要包括核心筒钢骨柱和梁、塔楼外框钢柱和钢梁、连接核心筒和外框结构的H型钢梁、屋顶桁架钢结构和钢筋桁架楼承板。工程未特别注明的钢板材质：t<25mm采用Q345B；25≤t<40mm采用Q345GJC；40≤t≤60mm采用Q345GJC-Z15。依据GB50205-2020标准规定关于该钢结构工程安装主体钢结构叙述正确的是（）"
+              },
+              {
+                "questionContentType": "文字题",
+                "score": 5,
+                "questionAnswers": [
+                  {
+                    "sequence": 1,
+                    "isRight": true,
+                    "questionId": 19004106,
+                    "id": 792889,
+                    "content": "防火涂料涂层最薄处的厚度不得小于设计厚度的 85%；平均厚度允许偏差应为设计厚度的±10%，且不应大于±0.3mm。"
+                  },
+                  {
+                    "sequence": 2,
+                    "isRight": true,
+                    "questionId": 19004106,
+                    "id": 792890,
+                    "content": "按照构件数抽查10%，同类构件不应少于3件"
+                  },
+                  {
+                    "sequence": 3,
+                    "isRight": false,
+                    "questionId": 19004106,
+                    "id": 792891,
+                    "content": "防火涂料采用涂层厚度测量仪，涂层厚度允许偏差应为-5%"
+                  },
+                  {
+                    "sequence": 4,
+                    "isRight": false,
+                    "questionId": 19004106,
+                    "id": 792892,
+                    "content": "防火涂料涂层最薄处的厚度不得小于设计厚度的 80%；平均厚度不小于设计值。"
+                  }
+                ],
+                "filePath": "",
+                "questionSequence": 261,
+                "id": 19004106,
+                "questionDifficulty": "困难题",
+                "questionType": "多选题",
+                "content": "某商业大厦地上58层，地下4层，建筑高度263.60米，结构等级二级、使用年限50年、抗震等级6级、耐火等级一级，本工程钢结构主要分布在塔楼，塔楼采用“矩形钢管混凝土外框柱+型钢梁+钢筋桁架楼承板+钢筋混凝土核心筒”的钢管混凝土框架-钢筋混凝土核心筒混合结构体系。钢结构主要包括核心筒钢骨柱和梁、塔楼外框钢柱和钢梁、连接核心筒和外框结构的H型钢梁、屋顶桁架钢结构和钢筋桁架楼承板。工程未特别注明的钢板材质：t<25mm采用Q345B；25≤t<40mm采用Q345GJC；40≤t≤60mm采用Q345GJC-Z15。该工程防火等级为一级，承重钢柱采用膨胀型防火涂料，耐火极限不小于3小时，依据T/CECS24-2020技术规程和GB50205-2020标准相关规定，关于该类钢柱防火涂层厚度测试叙述正确的是（）"
+              }
+            ],
+            "paperId": 224516,
+            "paperAreaName": "六、检测专项部分（案例题，每题5分）"
+          }
+        ],
+        "version": "1",
+        "paperId": "224516"
+      }
+    }
+  },
+  "pageNum": null,
+  "pageSize": null,
+  "total": null,
+  "success": true
+}
